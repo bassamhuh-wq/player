@@ -306,6 +306,7 @@ video.fit-zoom, .video-js video.fit-zoom { transform: scale(1.2) !important; }
     transition: opacity 0.2s, color 0.2s, transform 0.2s;
     display: flex; align-items: center; justify-content: center;
     padding: 0.4rem;
+    text-decoration: none; /* Remove underlines from anchors */
 }
 .control-btn:hover {
     opacity: 1;
