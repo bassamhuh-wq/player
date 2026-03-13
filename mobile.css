@@ -1,0 +1,125 @@
+/* mobile.css - Ultra-Lightweight Minimalist Design */
+
+.custom-ui {
+    padding: 1.5rem 0.8rem 0.8rem 0.8rem;
+    padding-bottom: max(1rem, env(safe-area-inset-bottom));
+    height: 100dvh;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    backdrop-filter: none !important;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%, transparent 20%, transparent 80%, rgba(0,0,0,0.5) 100%);
+}
+
+.bottom-bar {
+    position: relative;
+    width: 100%;
+    backdrop-filter: none !important;
+    background: none !important; /* Zero background for performance */
+    border: none !important;
+    padding: 0;
+    margin-top: auto;
+}
+
+.settings-menu, .sub-menu, .viewer-count, .live-badge {
+    backdrop-filter: none !important;
+    background: rgba(0, 0, 0, 0.8) !important;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.center-btn {
+    width: 65px; height: 65px;
+    background: none !important; /* Zero background */
+    backdrop-filter: none !important;
+    border: none !important;
+    color: white;
+    font-size: 2.5rem !important;
+    text-shadow: 0 0 10px rgba(0,0,0,0.8);
+}
+
+.center-btn.secondary {
+    width: 45px; height: 45px;
+    font-size: 1.8rem !important;
+}
+
+.player-wrapper:not(.idle) .center-btn {
+    opacity: 1 !important;
+    pointer-events: auto !important;
+}
+.player-wrapper.idle .center-btn {
+    opacity: 0 !important;
+    pointer-events: none !important;
+}
+
+#rewindBtn, #forwardBtn {
+    display: none !important;
+}
+
+.volume-slider { 
+    display: none !important; 
+}
+
+.controls-left, .controls-right { 
+    gap: 0.2rem; 
+}
+
+.control-btn { 
+    background: none !important;
+    border: none !important;
+    font-size: 1.2rem !important; 
+    padding: 8px !important;
+    text-shadow: 0 0 5px rgba(0,0,0,0.8);
+}
+
+.title { 
+    font-size: 0.8rem; 
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    max-width: 100px; 
+}
+
+.viewer-count { 
+    padding: 0.1rem 0.3rem; 
+    font-size: 0.7rem; 
+}
+
+.settings-menu {
+    bottom: 15% !important;
+    right: 5% !important;
+    width: auto;
+    min-width: 200px;
+    position: absolute;
+    left: auto;
+    transform: none;
+}
+
+.sub-menu {
+    right: 0;
+    width: 100%;
+    position: static;
+    margin-top: 0.5rem;
+}
+
+.progress-container {
+    height: 4px !important; 
+    background: rgba(255,255,255,0.1) !important;
+}
+
+.current-bar {
+    box-shadow: none !important;
+}
+
+.scrub-head {
+    width: 12px !important;
+    height: 12px !important;
+    transform: translate(-50%, -50%) scale(1) !important;
+    background: white !important;
+    box-shadow: none !important;
+}
+
+/* Cleanup layout for minimalist view */
+.controls-row {
+    padding: 0.2rem 0;
+}
