@@ -316,6 +316,15 @@ video.fit-zoom, .video-js video.fit-zoom { transform: scale(1.2) !important; }
     transform: scale(0.95);
 }
 
+#whatsappBtn {
+    color: #25D366; /* WhatsApp Green */
+    text-decoration: none;
+}
+#whatsappBtn:hover {
+    color: #128C7E;
+    transform: scale(1.1);
+}
+
 /* Volume */
 .volume-container {
     display: flex; align-items: center; gap: 0.8rem;

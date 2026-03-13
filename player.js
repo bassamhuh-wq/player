@@ -1,1 +1,797 @@
-(function(_0x4a61a3,_0x17dcfa){const _0x42955e=_0x4a61a3();function _0x2413ec(_0x4a86e7,_0x3e2750){return _0x2f25(_0x3e2750- -0x9a,_0x4a86e7);}while(!![]){try{const _0x4fda99=parseInt(_0x2413ec(0x136,0xa0))/0x1+-parseInt(_0x2413ec(0x4e,0xd4))/0x2+parseInt(_0x2413ec(0xf8,0x11a))/0x3+parseInt(_0x2413ec(0x1d5,0x130))/0x4*(-parseInt(_0x2413ec(0x20,0xce))/0x5)+parseInt(_0x2413ec(0x7e,0x75))/0x6+-parseInt(_0x2413ec(0xeb,0x97))/0x7*(-parseInt(_0x2413ec(0x138,0xc8))/0x8)+-parseInt(_0x2413ec(0x80,0x17))/0x9*(parseInt(_0x2413ec(0x22,0x80))/0xa);if(_0x4fda99===_0x17dcfa)break;else _0x42955e['push'](_0x42955e['shift']());}catch(_0x5ebfe1){_0x42955e['push'](_0x42955e['shift']());}}}(_0x4ce2,0x7c044));const _0x432d87=(function(){let _0x2a72c6=!![];return function(_0x1284d4,_0x609716){const _0x3977de=_0x2a72c6?function(){function _0x4b6162(_0x193586,_0x2c72a7){return _0x2f25(_0x193586- -0x319,_0x2c72a7);}if(_0x609716){const _0x20d4d9=_0x609716[_0x4b6162(-0x13c,-0x183)](_0x1284d4,arguments);return _0x609716=null,_0x20d4d9;}}:function(){};return _0x2a72c6=![],_0x3977de;};}()),_0xd027bb=_0x432d87(this,function(){function _0x182fde(_0x41d80a,_0x525f4a){return _0x2f25(_0x41d80a-0x1f2,_0x525f4a);}return _0xd027bb[_0x182fde(0x36a,0x3dd)]()[_0x182fde(0x322,0x2fa)](_0x182fde(0x2f6,0x296))[_0x182fde(0x36a,0x401)]()[_0x182fde(0x3a4,0x325)](_0xd027bb)[_0x182fde(0x322,0x38d)](_0x182fde(0x2f6,0x293));});_0xd027bb();const _0x1fb1a2=(function(){let _0xf66022=!![];return function(_0x4ed7c0,_0x3ed5af){const _0x5571c8=_0xf66022?function(){function _0x47e580(_0x447ab6,_0x31bf9b){return _0x2f25(_0x31bf9b-0x26a,_0x447ab6);}if(_0x3ed5af){const _0x2de08d=_0x3ed5af[_0x47e580(0x404,0x447)](_0x4ed7c0,arguments);return _0x3ed5af=null,_0x2de08d;}}:function(){};return _0xf66022=![],_0x5571c8;};}()),_0x5e0536=_0x1fb1a2(this,function(){const _0x35b8df=function(){function _0x3c9ca0(_0x45009b,_0x4dbb99){return _0x2f25(_0x45009b- -0x264,_0x4dbb99);}let _0x219834;try{_0x219834=Function(_0x3c9ca0(-0xe5,-0x40)+_0x3c9ca0(-0xee,-0x198)+');')();}catch(_0x578013){_0x219834=window;}return _0x219834;},_0x3641e9=_0x35b8df(),_0x42652e=new RegExp(_0x20bb74(-0x179,-0x148),'g'),_0x26fc84=_0x20bb74(-0xa1,-0x131)[_0x20bb74(-0x222,-0x18e)](_0x42652e,'')[_0x20bb74(-0x1e,-0xcf)](';');let _0x57e032,_0x7d3b5a,_0xa20cb8,_0x58ad4b;const _0x51459f=function(_0x292f65,_0x42dab3,_0x1adccf){if(_0x292f65[_0x15c460(0x47d,0x430)]!=_0x42dab3)return![];for(let _0x5f0e1c=0x0;_0x5f0e1c<_0x42dab3;_0x5f0e1c++){for(let _0x57b0a7=0x0;_0x57b0a7<_0x1adccf[_0x15c460(0x409,0x430)];_0x57b0a7+=0x2){if(_0x5f0e1c==_0x1adccf[_0x57b0a7]&&_0x292f65[_0x15c460(0x2e5,0x31d)](_0x5f0e1c)!=_0x1adccf[_0x57b0a7+0x1])return![];}}function _0x15c460(_0x5ccdf3,_0x1d9dfc){return _0x20bb74(_0x5ccdf3,_0x1d9dfc-0x4cc);}return!![];},_0x499622=function(_0x42b8fa,_0x1e5b46,_0x23f3e4){return _0x51459f(_0x1e5b46,_0x23f3e4,_0x42b8fa);},_0x15a4a2=function(_0x2cffac,_0x141d17,_0x2acce2){return _0x499622(_0x141d17,_0x2cffac,_0x2acce2);},_0x430503=function(_0x3a76d2,_0x25a8b3,_0x1796a6){return _0x15a4a2(_0x25a8b3,_0x1796a6,_0x3a76d2);};for(let _0x5660a2 in _0x3641e9){if(_0x51459f(_0x5660a2,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x57e032=_0x5660a2;break;}}for(let _0x3fb870 in _0x3641e9[_0x57e032]){if(_0x430503(0x6,_0x3fb870,[0x5,0x6e,0x0,0x64])){_0x7d3b5a=_0x3fb870;break;}}function _0x20bb74(_0x560535,_0x1c6f08){return _0x2f25(_0x1c6f08- -0x253,_0x560535);}for(let _0x14c0e5 in _0x3641e9[_0x57e032]){if(_0x15a4a2(_0x14c0e5,[0x7,0x6e,0x0,0x6c],0x8)){_0xa20cb8=_0x14c0e5;break;}}if(!('~'>_0x7d3b5a))for(let _0x32e933 in _0x3641e9[_0x57e032][_0xa20cb8]){if(_0x499622([0x7,0x65,0x0,0x68],_0x32e933,0x8)){_0x58ad4b=_0x32e933;break;}}if(!_0x57e032||!_0x3641e9[_0x57e032])return;const _0x4c299d=_0x3641e9[_0x57e032][_0x7d3b5a],_0x537e9e=!!_0x3641e9[_0x57e032][_0xa20cb8]&&_0x3641e9[_0x57e032][_0xa20cb8][_0x58ad4b],_0x5e6b7f=_0x4c299d||_0x537e9e;if(!_0x5e6b7f)return;let _0x5bcf1e=![];for(let _0x36e2bd=0x0;_0x36e2bd<_0x26fc84[_0x20bb74(-0xa7,-0x9c)];_0x36e2bd++){const _0x30b9b2=_0x26fc84[_0x36e2bd],_0x284dcb=_0x30b9b2[0x0]===String[_0x20bb74(-0x1aa,-0x140)](0x2e)?_0x30b9b2[_0x20bb74(-0xb9,-0x14a)](0x1):_0x30b9b2,_0x38656b=_0x5e6b7f[_0x20bb74(-0xf1,-0x9c)]-_0x284dcb[_0x20bb74(-0x3f,-0x9c)],_0xedba0b=_0x5e6b7f[_0x20bb74(-0x226,-0x1b3)](_0x284dcb,_0x38656b),_0xdbcab0=_0xedba0b!==-0x1&&_0xedba0b===_0x38656b;_0xdbcab0&&((_0x5e6b7f[_0x20bb74(-0xce,-0x9c)]==_0x30b9b2[_0x20bb74(-0xbf,-0x9c)]||_0x30b9b2[_0x20bb74(-0x193,-0x1b3)]('.')===0x0)&&(_0x5bcf1e=!![]));}if(!_0x5bcf1e){const _0x1e8a42=new RegExp(_0x20bb74(-0x10d,-0x6e),'g'),_0x15b6b1=_0x20bb74(-0xd6,-0xc7)[_0x20bb74(-0x174,-0x18e)](_0x1e8a42,'');_0x3641e9[_0x57e032][_0xa20cb8]=_0x15b6b1;}});_0x5e0536();const _0x1af345=(function(){let _0x3fd4a4=!![];return function(_0x4ffe80,_0x477530){const _0x26ee0f=_0x3fd4a4?function(){function _0x1d4a5c(_0x113e47,_0x517a04){return _0x2f25(_0x113e47-0x38b,_0x517a04);}if(_0x477530){const _0x410600=_0x477530[_0x1d4a5c(0x568,0x612)](_0x4ffe80,arguments);return _0x477530=null,_0x410600;}}:function(){};return _0x3fd4a4=![],_0x26ee0f;};}());(function(){_0x1af345(this,function(){const _0x3189af=new RegExp(_0x1f57fe(-0x46,-0x5d));function _0x1f57fe(_0x177072,_0x4df2ac){return _0x2f25(_0x177072- -0x117,_0x4df2ac);}const _0x152e7b=new RegExp(_0x1f57fe(0x8d,-0x8),'i'),_0x292c52=_0x5accec(_0x1f57fe(0xc,-0xa4));!_0x3189af[_0x1f57fe(0x88,0x8f)](_0x292c52+_0x1f57fe(0x44,0xc8))||!_0x152e7b[_0x1f57fe(0x88,0x62)](_0x292c52+_0x1f57fe(0x5d,-0x4f))?_0x292c52('0'):_0x5accec();})();}());const _0x328177=(function(){let _0x2761c0=!![];return function(_0xaf0915,_0x23f628){const _0x4d65ad=_0x2761c0?function(){function _0x5e6099(_0x269df7,_0x2fb3a8){return _0x2f25(_0x269df7-0x1a,_0x2fb3a8);}if(_0x23f628){const _0x25ac61=_0x23f628[_0x5e6099(0x1f7,0x269)](_0xaf0915,arguments);return _0x23f628=null,_0x25ac61;}}:function(){};return _0x2761c0=![],_0x4d65ad;};}()),_0x3e6d7a=_0x328177(this,function(){let _0x303941;try{const _0x5cb560=Function(_0x5e6a21(0x41f,0x4ad)+_0x5e6a21(0x4e0,0x4a4)+');');_0x303941=_0x5cb560();}catch(_0x2d779a){_0x303941=window;}function _0x5e6a21(_0x39bb96,_0x4801f8){return _0x2f25(_0x4801f8-0x32e,_0x39bb96);}const _0x2d34a8=_0x303941[_0x5e6a21(0x491,0x425)]=_0x303941[_0x5e6a21(0x3cf,0x425)]||{},_0x131754=[_0x5e6a21(0x37c,0x408),_0x5e6a21(0x514,0x4ff),_0x5e6a21(0x4d6,0x42b),_0x5e6a21(0x486,0x498),_0x5e6a21(0x4be,0x4aa),_0x5e6a21(0x511,0x4c2),_0x5e6a21(0x51a,0x4f9)];for(let _0x21b8bc=0x0;_0x21b8bc<_0x131754[_0x5e6a21(0x587,0x4e5)];_0x21b8bc++){const _0x52a4fd=_0x328177[_0x5e6a21(0x543,0x4e0)][_0x5e6a21(0x48c,0x501)][_0x5e6a21(0x4ad,0x482)](_0x328177),_0x5cab28=_0x131754[_0x21b8bc],_0x306f80=_0x2d34a8[_0x5cab28]||_0x52a4fd;_0x52a4fd[_0x5e6a21(0x4df,0x458)]=_0x328177[_0x5e6a21(0x44e,0x482)](_0x328177),_0x52a4fd[_0x5e6a21(0x4c6,0x4a6)]=_0x306f80[_0x5e6a21(0x4bb,0x4a6)][_0x5e6a21(0x442,0x482)](_0x306f80),_0x2d34a8[_0x5cab28]=_0x52a4fd;}});_0x3e6d7a();import{initializeApp}from'https://www.gstatic.com/firebasejs/10.8.1/firebase-app.js';import{getDatabase,ref,push,onValue,onDisconnect,set,remove}from'https://www.gstatic.com/firebasejs/10.8.1/firebase-database.js';const firebaseConfig={'apiKey':_0x3ef576(-0x101,-0x11e),'authDomain':_0x3ef576(-0x193,-0x133),'databaseURL':_0x3ef576(-0x169,-0xb8),'projectId':_0x3ef576(-0x122,-0xe2),'storageBucket':_0x3ef576(-0x1e9,-0x20f),'messagingSenderId':_0x3ef576(-0xfa,-0xf9),'appId':_0x3ef576(-0x182,-0x1cc),'measurementId':_0x3ef576(-0x170,-0x178)},firebaseApp=initializeApp(firebaseConfig),database=getDatabase(firebaseApp);let video,wrapper,customUI,playPauseBtn,centerPlayPauseBtn,centerRewindBtn,centerForwardBtn,rewindBtn,forwardBtn,muteBtn,volumeSlider,timeDisplay,fullscreenBtn,expandBtn,pipBtn,castBtn,loadingSpinner,liveBadge,progressContainer,progressBar,bufferBar,currentBar,scrubHead,settingsBtn,settingsMenu,videoTrackMenu,audioTrackMenu,textTrackMenu,videoTracksList,audioTracksList,textTracksList,currentQuality,currentAudio,currentText,viewerNumber,hls;function _0x3ef576(_0x41e06c,_0x2223ba){return _0x2f25(_0x41e06c- -0x2b7,_0x2223ba);}let shakaPlayer,castContext,isScrubbing=![],liveInterval,manualQualityId=null,lastShowTime=0x0;function updateVolumeUI(){if(!video||!volumeSlider||!muteBtn)return;function _0x24279c(_0x4fc0bb,_0x283291){return _0x3ef576(_0x283291-0x2b6,_0x4fc0bb);}const _0x39db92=video[_0x24279c(0x124,0x106)],_0x2dddd4=video[_0x24279c(0x16f,0x1cb)];_0x2dddd4||_0x39db92===0x0?(muteBtn[_0x24279c(0x92,0xa7)]=_0x24279c(-0x18,0x91),volumeSlider[_0x24279c(0x1d5,0x187)]=0x0):(muteBtn[_0x24279c(0x14e,0xa7)]=_0x39db92<0.5?_0x24279c(0x17,0xa5):_0x24279c(0x161,0x11a),volumeSlider[_0x24279c(0x14b,0x187)]=_0x39db92);}async function initPlayer(){typeof shaka!==_0x1bea78(0xb8,0xea)&&shaka[_0x1bea78(0x7e,-0x8)][_0x1bea78(0x16b,0x113)]();video=document[_0x1bea78(0xed,0xc6)](_0x1bea78(0x94,0x5e));video&&video[_0x1bea78(-0xc,0x29)](_0x1bea78(-0x26,0x9),_0x1bea78(0x76,0x9d));wrapper=document[_0x1bea78(0x81,0xc6)](_0x1bea78(0xdf,0x12b)),customUI=document[_0x1bea78(0x52,0xc6)](_0x1bea78(0xda,0x96)),playPauseBtn=document[_0x1bea78(0xe7,0xc6)](_0x1bea78(0xbf,0xed)),centerPlayPauseBtn=document[_0x1bea78(0x2c,0xc6)](_0x1bea78(0x5b,-0x33)),centerRewindBtn=document[_0x1bea78(0x44,0xc6)](_0x1bea78(0x10b,0xa6)),centerForwardBtn=document[_0x1bea78(0x23,0xc6)](_0x1bea78(-0x15,0x49));function _0x1bea78(_0x3d5492,_0x3c56c6){return _0x3ef576(_0x3c56c6-0x1f8,_0x3d5492);}rewindBtn=document[_0x1bea78(0xb1,0xc6)](_0x1bea78(0x8a,0xff)),forwardBtn=document[_0x1bea78(0xb9,0xc6)](_0x1bea78(-0x49,0x1c)),muteBtn=document[_0x1bea78(0x153,0xc6)](_0x1bea78(0x189,0x108)),volumeSlider=document[_0x1bea78(0x11e,0xc6)](_0x1bea78(0x4e,0xdd)),timeDisplay=document[_0x1bea78(0x40,0xc6)](_0x1bea78(0x82,0x60)),fullscreenBtn=document[_0x1bea78(0x147,0xc6)](_0x1bea78(0xe1,0x99)),expandBtn=document[_0x1bea78(0x65,0xc6)](_0x1bea78(0xb9,0x122)),pipBtn=document[_0x1bea78(0xe4,0xc6)](_0x1bea78(0x41,0xe7)),castBtn=document[_0x1bea78(0x164,0xc6)](_0x1bea78(0x80,0x119)),loadingSpinner=document[_0x1bea78(0x93,0xc6)](_0x1bea78(0x14e,0xc2)),liveBadge=document[_0x1bea78(0x24,0xc6)](_0x1bea78(0xf6,0x104)),progressContainer=document[_0x1bea78(0x13c,0x9b)](_0x1bea78(0xf0,0x58)),progressBar=document[_0x1bea78(0x11b,0xc6)](_0x1bea78(0x11f,0x127)),bufferBar=document[_0x1bea78(0x19,0xc6)](_0x1bea78(0x44,-0x2c)),currentBar=document[_0x1bea78(0x3d,0xc6)](_0x1bea78(0x11a,0xc4)),scrubHead=document[_0x1bea78(0xcd,0xc6)](_0x1bea78(0x86,0x3c)),settingsBtn=document[_0x1bea78(0x126,0xc6)](_0x1bea78(0x46,0x42)),settingsMenu=document[_0x1bea78(0xb3,0xc6)](_0x1bea78(-0x17,0x59)),videoTrackMenu=document[_0x1bea78(0x11a,0xc6)](_0x1bea78(0xbb,0x81)),audioTrackMenu=document[_0x1bea78(0xfc,0xc6)](_0x1bea78(0xd9,0x90)),textTrackMenu=document[_0x1bea78(0x72,0xc6)](_0x1bea78(0xac,0x28)),videoTracksList=document[_0x1bea78(0x78,0xc6)](_0x1bea78(0xce,0x44)),audioTracksList=document[_0x1bea78(0x159,0xc6)](_0x1bea78(0x5f,0x85)),textTracksList=document[_0x1bea78(0x52,0xc6)](_0x1bea78(-0x88,0xa)),currentQuality=document[_0x1bea78(0x158,0xc6)](_0x1bea78(0x7d,0x11d)),currentAudio=document[_0x1bea78(0x148,0xc6)](_0x1bea78(0x4b,0xe4)),currentText=document[_0x1bea78(0x149,0xc6)](_0x1bea78(0x1a0,0x120)),viewerNumber=document[_0x1bea78(0xbd,0xc6)](_0x1bea78(0x29,0x32));if(!video)return;setupControls(),startViewerCounter(CHANNEL_ID),initCast(),loadCurrentStream(),updateVolumeUI();async function _0x49a051(){if(!video)return;function _0x132e11(_0x416778,_0x44299e){return _0x1bea78(_0x44299e,_0x416778- -0x283);}try{if(video[_0x132e11(-0x176,-0x110)]){video[_0x132e11(-0x176,-0x1db)]=![];if(video[_0x132e11(-0x23b,-0x25a)]===0x0)video[_0x132e11(-0x23b,-0x22b)]=0.5;updateVolumeUI(),console[_0x132e11(-0x268,-0x1be)](_0x132e11(-0x17d,-0x11c));if(video[_0x132e11(-0x262,-0x27f)])await video[_0x132e11(-0x243,-0x20d)]()[_0x132e11(-0x1e1,-0x1fe)](()=>{});}}catch(_0x5e0f8f){console[_0x132e11(-0x171,-0x169)](_0x132e11(-0x276,-0x20c),_0x5e0f8f);}}[_0x1bea78(0x62,0xbc),_0x1bea78(0xe,-0x23),_0x1bea78(0x16d,0x10f),_0x1bea78(-0x2a,0x4d)][_0x1bea78(-0x65,0x3b)](_0x5b8784=>{function _0x3372eb(_0x113c77,_0x4aa487){return _0x1bea78(_0x113c77,_0x4aa487- -0x6d);}document[_0x3372eb(0xbe,0x63)](_0x5b8784,()=>{_0x49a051();},{'once':!![],'capture':!![]});});let _0x331142=0x0;wrapper[_0x1bea78(0x108,0xd0)](_0x1bea78(0x4f,-0x23),_0x2826a9=>{const _0x3d4f7e=Date[_0x2190f5(0x33c,0x322)]();function _0x2190f5(_0xfe09fc,_0x35155a){return _0x1bea78(_0xfe09fc,_0x35155a-0x268);}if(_0x3d4f7e-_0x331142<0x12c){_0x2826a9[_0x2190f5(0x321,0x35a)]();if(typeof toggleFullscreen===_0x2190f5(0x29b,0x24e))toggleFullscreen();}_0x331142=_0x3d4f7e;});}async function toggleFullscreen(){if(!wrapper)return;function _0xeb6e46(_0x2b9ee7,_0x4e25fb){return _0x3ef576(_0x2b9ee7-0x64a,_0x4e25fb);}try{if(!document[_0xeb6e46(0x533,0x4e7)]){if(wrapper[_0xeb6e46(0x49d,0x544)])await wrapper[_0xeb6e46(0x49d,0x406)]();else{if(wrapper[_0xeb6e46(0x56e,0x4e5)])await wrapper[_0xeb6e46(0x56e,0x560)]();}if(fullscreenBtn)fullscreenBtn[_0xeb6e46(0x43b,0x4a0)]=_0xeb6e46(0x542,0x5a7);screen[_0xeb6e46(0x486,0x4a0)]&&screen[_0xeb6e46(0x486,0x4f8)][_0xeb6e46(0x47d,0x424)]&&await screen[_0xeb6e46(0x486,0x531)][_0xeb6e46(0x47d,0x402)](_0xeb6e46(0x4d1,0x528))[_0xeb6e46(0x4f4,0x524)](_0x555c88=>console[_0xeb6e46(0x564,0x5be)](_0xeb6e46(0x4a5,0x4b8),_0x555c88));}else{if(document[_0xeb6e46(0x552,0x58b)])await document[_0xeb6e46(0x552,0x537)]();else{if(document[_0xeb6e46(0x452,0x3d7)])await document[_0xeb6e46(0x452,0x49e)]();}if(fullscreenBtn)fullscreenBtn[_0xeb6e46(0x43b,0x459)]=_0xeb6e46(0x422,0x447);if(screen[_0xeb6e46(0x486,0x449)]&&screen[_0xeb6e46(0x486,0x471)][_0xeb6e46(0x51a,0x517)])screen[_0xeb6e46(0x486,0x431)][_0xeb6e46(0x51a,0x5ba)]();}}catch(_0x2472e6){console[_0xeb6e46(0x4fd,0x53d)](_0xeb6e46(0x469,0x3f1),_0x2472e6);}}async function loadCurrentStream(){const _0x2a4097=STREAM_URL[_0x183604(-0x1c5,-0x139)]()[_0x183604(-0x90,-0x109)](_0x183604(-0x148,-0xe7));hls&&(hls[_0x183604(-0x1aa,-0x178)](),hls=null);function _0x183604(_0x57a89b,_0x1e0c00){return _0x3ef576(_0x1e0c00-0x3f,_0x57a89b);}shakaPlayer&&(await shakaPlayer[_0x183604(-0x17c,-0x178)](),shakaPlayer=null);if(_0x2a4097){console[_0x183604(-0x10b,-0x19e)](_0x183604(-0x15e,-0x125)),shakaPlayer=new shaka[(_0x183604(-0x183,-0xf8))](video),shakaPlayer[_0x183604(-0x187,-0xe9)](_0x183604(-0x18a,-0x10e),_0xe9ab44=>console[_0x183604(-0x136,-0x10e)](_0x183604(-0x183,-0x119),_0xe9ab44[_0x183604(-0x17a,-0x1c3)]));if(DRM_KEYS){const _0x56cd23=DRM_KEYS[_0x183604(-0x126,-0xf4)](':');shakaPlayer[_0x183604(-0x165,-0x1a1)]({'drm':{'clearKeys':{[_0x56cd23[0x0]]:_0x56cd23[0x1]}}});}shakaPlayer[_0x183604(-0x1fa,-0x1a1)]({'abr':{'enabled':!![]},'preferredAudioLanguage':'ar','preferredTextLanguage':'ar','streaming':{'lowLatencyMode':!![],'autoLowLatencyMode':!![]}});try{await shakaPlayer[_0x183604(-0x1a7,-0x163)](STREAM_URL),updateTrackLists(_0x183604(-0x121,-0x101)),shakaPlayer[_0x183604(-0x19a,-0xe9)](_0x183604(-0x146,-0xc3),()=>{function _0xc03dd3(_0x3db2ba,_0x49fab7){return _0x183604(_0x3db2ba,_0x49fab7-0x4f5);}if(shakaPlayer[_0xc03dd3(0x30f,0x391)]()[_0xc03dd3(0x3f8,0x410)][_0xc03dd3(0x318,0x312)]){const _0x56568b=shakaPlayer[_0xc03dd3(0x354,0x3b5)]()[_0xc03dd3(0x3cd,0x41b)](_0x389f30=>_0x389f30[_0xc03dd3(0x3db,0x446)]);if(_0x56568b){const _0xd8678f=document[_0xc03dd3(0x3dc,0x402)](_0xc03dd3(0x362,0x32b));if(_0xd8678f)_0xd8678f[_0xc03dd3(0x46a,0x453)]=_0xc03dd3(0x3e1,0x3ab)+_0x56568b[_0xc03dd3(0x28f,0x31c)]+'p)';currentQuality[_0xc03dd3(0x44b,0x453)]=_0xc03dd3(0x3d9,0x3ab)+_0x56568b[_0xc03dd3(0x36b,0x31c)]+'p)';}}});const _0x1bb00f=shakaPlayer[_0x183604(-0x1d5,-0x16a)]();video[_0x183604(-0x95,-0x111)]=_0x1bb00f[_0x183604(-0x4c,-0xa4)];}catch(_0x3a61eb){console[_0x183604(-0x14d,-0x10e)](_0x183604(-0x87,-0x135),_0x3a61eb);}}else{if(window[_0x183604(-0x126,-0x1b8)]&&Hls[_0x183604(-0x96,-0x11a)]()){console[_0x183604(-0x120,-0x19e)](_0x183604(-0x140,-0x1a9)),hls=new Hls({'enableWorker':!![],'lowLatencyMode':!![],'backBufferLength':0x3c,'maxBufferLength':0x1e,'liveSyncDurationCount':0x2,'liveMaxLatencyDurationCount':0x5,'maxLiveSyncPlaybackRate':1.1}),hls['on'](Hls[_0x183604(-0x46,-0xb0)][_0x183604(-0xdd,-0x9e)],()=>updateTrackLists(_0x183604(-0x233,-0x1cd))),hls['on'](Hls[_0x183604(-0xe6,-0xb0)][_0x183604(-0x137,-0x17f)],(_0x56bfe0,_0x24541a)=>{const _0x5a8275=hls[_0x27d9e5(0x2f9,0x3a6)][_0x24541a[_0x27d9e5(0x44d,0x3ba)]],_0x8f2260=document[_0x27d9e5(0x32f,0x370)](_0x27d9e5(0x1f9,0x299));function _0x27d9e5(_0x2b5323,_0x22b4ff){return _0x183604(_0x2b5323,_0x22b4ff-0x463);}if(hls[_0x27d9e5(0x458,0x3d3)]){if(_0x8f2260)_0x8f2260[_0x27d9e5(0x468,0x3c1)]=_0x27d9e5(0x2ce,0x319)+_0x5a8275[_0x27d9e5(0x23a,0x28a)]+'p)';currentQuality[_0x27d9e5(0x393,0x3c1)]=_0x27d9e5(0x35a,0x319)+_0x5a8275[_0x27d9e5(0x2b0,0x28a)]+'p)';}else{if(_0x8f2260)_0x8f2260[_0x27d9e5(0x3f6,0x3c1)]=_0x27d9e5(0x328,0x334);}});if(DRM_KEYS)await setupEME(video,DRM_KEYS);hls[_0x183604(-0x13c,-0x1a3)](STREAM_URL),hls[_0x183604(-0x11b,-0x19f)](video);}else video[_0x183604(-0x135,-0x16b)](_0x183604(-0x1cc,-0x13f))&&(video[_0x183604(-0x282,-0x1e1)]=STREAM_URL);}video[_0x183604(-0x1f1,-0x179)]()[_0x183604(-0x155,-0x117)](_0x1265f0=>console[_0x183604(-0x17,-0xa7)](_0x183604(-0x13b,-0x91)));}function initCast(){function _0x23aefc(_0x58c3c2,_0x57d5cf){return _0x3ef576(_0x58c3c2-0x5c5,_0x57d5cf);}window[_0x23aefc(0x450,0x43e)]=_0x15374b=>{function _0x3e08d4(_0xa3743,_0x1927a5){return _0x23aefc(_0xa3743- -0x542,_0x1927a5);}_0x15374b&&window[_0x3e08d4(-0x179,-0x20a)]&&(castContext=cast[_0x3e08d4(-0x99,-0x7d)][_0x3e08d4(-0x19c,-0x101)][_0x3e08d4(-0x74,-0x51)](),castContext[_0x3e08d4(-0xde,-0x181)]({'receiverApplicationId':chrome[_0x3e08d4(-0x179,-0x134)][_0x3e08d4(-0x17e,-0x145)][_0x3e08d4(-0x140,-0x18b)],'autoJoinPolicy':chrome[_0x3e08d4(-0x179,-0x134)][_0x3e08d4(-0x5b,-0x7e)][_0x3e08d4(-0xa2,-0x143)]}),castContext[_0x3e08d4(-0xa5,-0xb5)](cast[_0x3e08d4(-0x99,-0x76)][_0x3e08d4(-0x145,-0xd4)][_0x3e08d4(-0xc1,-0x45)],_0x152944=>{const _0x2c058c=_0x152944[_0x559ab8(0x4a,0x5b)]===cast[_0x559ab8(0x9b,0xf1)][_0x559ab8(-0x69,-0x9)][_0x559ab8(0x66,0xd0)];function _0x559ab8(_0x18c5b1,_0x14e86a){return _0x3e08d4(_0x14e86a-0x18a,_0x18c5b1);}castBtn[_0x559ab8(0x57,0x12)][_0x559ab8(0x10b,0x82)]=_0x2c058c?_0x559ab8(0xb0,0x9b):_0x559ab8(0x86,0x26),castBtn[_0x559ab8(0x89,-0x2)]=_0x2c058c?_0x559ab8(0x21,0x19):_0x559ab8(-0x50,0x6);if(_0x2c058c){const _0xd71abe=castContext[_0x559ab8(0xd0,0xad)](),_0x3ec228=new chrome[(_0x559ab8(0xa1,0x11))][(_0x559ab8(0x7e,0xc))][(_0x559ab8(-0x2a,0x44))](STREAM_URL,_0x559ab8(0x3c,0xe3)),_0x502094=new chrome[(_0x559ab8(-0x39,0x11))][(_0x559ab8(-0x9c,0xc))][(_0x559ab8(0x160,0xd4))](_0x3ec228);_0xd71abe[_0x559ab8(0xcf,0xf3)](_0x502094);}}));};}function hexToUint8Array(_0x47a782){const _0x27cb4f=new Uint8Array(_0x47a782[_0x5df212(0x184,0x168)]/0x2);function _0x5df212(_0x32b677,_0x14f9ba){return _0x3ef576(_0x32b677-0x284,_0x14f9ba);}for(let _0x44bb79=0x0;_0x44bb79<_0x47a782[_0x5df212(0x184,0x197)];_0x44bb79+=0x2)_0x27cb4f[_0x44bb79/0x2]=parseInt(_0x47a782[_0x5df212(0xab,0xf8)](_0x44bb79,0x2),0x10);return _0x27cb4f;}async function setupEME(_0x5c4c6c,_0x2b9cf3){if(!_0x2b9cf3)return;function _0xcdbc2b(_0x251df5,_0x238ab7){return _0x3ef576(_0x251df5-0x1ef,_0x238ab7);}const _0x661f57=_0x2b9cf3[_0xcdbc2b(0xbc,0x13b)](':'),_0xcdf054=hexToUint8Array(_0x661f57[0x0]),_0x34bb66=hexToUint8Array(_0x661f57[0x1]),_0x553b48=[{'initDataTypes':[_0xcdbc2b(0x73,0xab)],'videoCapabilities':[{'contentType':_0xcdbc2b(-0x25,-0x4f)}]}];try{const _0x1667e9=await navigator[_0xcdbc2b(0xba,0x11c)](_0xcdbc2b(0xa5,0xa0),_0x553b48),_0x2044a8=await _0x1667e9[_0xcdbc2b(-0x14,0xf)]();await _0x5c4c6c[_0xcdbc2b(0x116,0x183)](_0x2044a8);const _0x4e29db=_0x2044a8[_0xcdbc2b(-0x2f,0x60)]();_0x4e29db[_0xcdbc2b(0xc7,0x4b)](_0xcdbc2b(0x1b,0x45),_0x1e17a4=>{const _0x5ab2b1=JSON[_0x3e708e(0xca,0x86)]({'keys':[{'kty':_0x3e708e(0x15c,0x1f2),'kid':btoa(String[_0x3e708e(0xd7,0x75)](..._0xcdf054))[_0x3e708e(0x89,0xa9)](/\+/g,'-')[_0x3e708e(0x89,0x98)](/\//g,'_')[_0x3e708e(0x89,0x136)](/=/g,''),'k':btoa(String[_0x3e708e(0xd7,0x52)](..._0x34bb66))[_0x3e708e(0x89,0x102)](/\+/g,'-')[_0x3e708e(0x89,0x106)](/\//g,'_')[_0x3e708e(0x89,0xe5)](/=/g,'')}],'type':_0x3e708e(0x191,0x22e)});function _0x3e708e(_0x5f39fa,_0x380b2e){return _0xcdbc2b(_0x5f39fa-0x8c,_0x380b2e);}_0x1e17a4[_0x3e708e(0x116,0xec)][_0x3e708e(0x124,0x149)](new TextEncoder()[_0x3e708e(0xb1,0x159)](_0x5ab2b1));}),_0x5c4c6c[_0xcdbc2b(0xc7,0x7e)](_0xcdbc2b(0x3a,-0x63),_0x5e4da4=>_0x4e29db[_0xcdbc2b(0x17,0x89)](_0x5e4da4[_0xcdbc2b(-0x1c,-0x84)],_0x5e4da4[_0xcdbc2b(0x75,0x10)]));}catch(_0x528ee1){console[_0xcdbc2b(0x109,0x5e)](_0xcdbc2b(0xeb,0x14d),_0x528ee1);}}function startViewerCounter(_0x2bcb6f){function _0x1764c3(_0x307c40,_0x1b1dc8){return _0x3ef576(_0x307c40-0x432,_0x1b1dc8);}const _0x3d62a9=ref(database,_0x1764c3(0x2c5,0x2fa)+_0x2bcb6f),_0x244488=ref(database,_0x1764c3(0x28b,0x265));onValue(_0x244488,_0x8e4ab1=>{function _0x3a6469(_0x2a6873,_0x10a4b4){return _0x1764c3(_0x10a4b4-0x177,_0x2a6873);}if(_0x8e4ab1[_0x3a6469(0x4b1,0x41f)]()===!![]){const _0x51aa0d=push(_0x3d62a9);onDisconnect(_0x51aa0d)[_0x3a6469(0x409,0x3ab)]()[_0x3a6469(0x468,0x453)](_0x3a0e40=>{function _0x245428(_0x538816,_0x51e24b){return _0x3a6469(_0x51e24b,_0x538816-0xec);}if(_0x3a0e40)console[_0x245428(0x548,0x528)](_0x245428(0x5ae,0x572),_0x3a0e40);}),set(_0x51aa0d,!![]);}}),onValue(_0x3d62a9,_0x39a618=>{function _0x6db4c4(_0x190ebf,_0x26e6b2){return _0x1764c3(_0x190ebf- -0x79,_0x26e6b2);}const _0x4fe005=_0x39a618[_0x6db4c4(0x25f,0x2df)]||0x0;if(viewerNumber)viewerNumber[_0x6db4c4(0x2d8,0x2ac)]=_0x4fe005[_0x6db4c4(0x1ac,0x208)]();});}function goToLive(){function _0x1311b3(_0x519d12,_0x31540b){return _0x3ef576(_0x519d12-0x1f2,_0x31540b);}if(hls)video[_0x1311b3(0xa2,0x152)]=hls[_0x1311b3(0x88,0x4e)];else shakaPlayer?video[_0x1311b3(0xa2,0xe0)]=shakaPlayer[_0x1311b3(0x49,-0x8)]()[_0x1311b3(0x10f,0xcf)]:video[_0x1311b3(0xa2,0x147)]=video[_0x1311b3(-0x8,-0x14)];}function _0x2f25(_0x12d7d9,_0x1c5761){_0x12d7d9=_0x12d7d9-0x8a;const _0x549aa4=_0x4ce2();let _0x3e6d7a=_0x549aa4[_0x12d7d9];return _0x3e6d7a;}function setupControls(){const _0x32db02=()=>video[_0x316e65(0x3f,0x3b)]?video[_0x316e65(0xcb,0x5a)]():video[_0x316e65(0x182,0x11d)]();playPauseBtn[_0x316e65(0x8b,0x21)]=_0x32db02,centerPlayPauseBtn[_0x316e65(0x60,0x21)]=_0x558531=>{function _0x5d7472(_0x47593a,_0x2fbf87){return _0x316e65(_0x47593a,_0x2fbf87-0x6);}_0x558531[_0x5d7472(0xaf,0x10f)](),_0x32db02();},video[_0x316e65(0x7a,0xbe)]=()=>{playPauseBtn[_0x1c5c44(0xf0,0xaa)]=_0x1c5c44(0x1f3,0x218),centerPlayPauseBtn[_0x1c5c44(0xf0,0x69)]=_0x1c5c44(0x1f3,0x260),wrapper[_0x1c5c44(0x11b,0x17e)][_0x1c5c44(0x101,0x1a1)](_0x1c5c44(0x209,0x27d));function _0x1c5c44(_0x4b4b5e,_0x5cdcc){return _0x316e65(_0x5cdcc,_0x4b4b5e-0xed);}_0x2bde06();if(liveInterval)clearInterval(liveInterval);},video[_0x316e65(0x5f,-0x11)]=()=>{playPauseBtn[_0x492357(-0x1f3,-0x1ea)]=_0x492357(-0x1b9,-0x164),centerPlayPauseBtn[_0x492357(-0x1f3,-0x25b)]=_0x492357(-0x1b9,-0x25c),wrapper[_0x492357(-0x1c8,-0x14b)][_0x492357(-0x174,-0x15b)](_0x492357(-0xda,-0xc5)),wrapper[_0x492357(-0x1c8,-0x1fb)][_0x492357(-0x1e2,-0x1ef)](_0x492357(-0x1af,-0x250));function _0x492357(_0x1ee133,_0x21ef6f){return _0x316e65(_0x21ef6f,_0x1ee133- -0x1f6);}clearTimeout(_0x31d2e0),(hls||shakaPlayer)&&(liveInterval=setInterval(_0x9e1bc6,0x3e8));},video[_0x316e65(0xce,0x3f)]=()=>{function _0x316213(_0xda3c34,_0x52fb65){return _0x316e65(_0xda3c34,_0x52fb65-0x152);}loadingSpinner[_0x316213(0x115,0x169)][_0x316213(0x1e6,0x218)]=_0x316213(0x15e,0x15a);},video[_0x316e65(-0x94,0xe)]=()=>{function _0x4285c6(_0x2aa0e2,_0x162fed){return _0x316e65(_0x2aa0e2,_0x162fed-0x16f);}loadingSpinner[_0x4285c6(0x230,0x186)][_0x4285c6(0x1cf,0x235)]=_0x4285c6(0x207,0x22e);},rewindBtn[_0x316e65(-0x6a,0x21)]=_0x4df9a2=>{_0x4df9a2[_0x50bb06(-0x90,0x4)](),video[_0x50bb06(-0x99,-0x43)]-=0xa;function _0x50bb06(_0x11842b,_0x55c053){return _0x316e65(_0x11842b,_0x55c053- -0x105);}_0x2bde06();},forwardBtn[_0x316e65(-0x15,0x21)]=_0x291bbd=>{function _0x539358(_0x472637,_0x5bd7df){return _0x316e65(_0x5bd7df,_0x472637- -0x1da);}_0x291bbd[_0x539358(-0xd1,-0x7c)](),video[_0x539358(-0x118,-0x1c7)]+=0xa,_0x2bde06();};if(centerRewindBtn)centerRewindBtn[_0x316e65(0x33,0x21)]=_0x442d09=>{_0x442d09[_0x3a0234(0x48a,0x46b)](),video[_0x3a0234(0x3b2,0x424)]-=0xa;function _0x3a0234(_0x592e35,_0x494e68){return _0x316e65(_0x592e35,_0x494e68-0x362);}_0x2bde06();};if(centerForwardBtn)centerForwardBtn[_0x316e65(0x32,0x21)]=_0x23b9fd=>{function _0x259cd0(_0x86941b,_0x24a512){return _0x316e65(_0x24a512,_0x86941b-0x1df);}_0x23b9fd[_0x259cd0(0x2e8,0x289)](),video[_0x259cd0(0x2a1,0x29b)]+=0xa,_0x2bde06();};muteBtn[_0x316e65(-0x3a,0x21)]=()=>{function _0x519ed0(_0x2b4881,_0x80c25f){return _0x316e65(_0x80c25f,_0x2b4881- -0x70);}video[_0x519ed0(0xb7,0xa0)]=!video[_0x519ed0(0xb7,0x39)],updateVolumeUI();},volumeSlider[_0x316e65(0x74,0xf5)]=_0xc091d4=>{video[_0x4769b7(0x221,0x1df)]=parseFloat(_0xc091d4[_0x4769b7(0x25f,0x22a)][_0x4769b7(0x30c,0x260)]),video[_0x4769b7(0x232,0x2a4)]=video[_0x4769b7(0x130,0x1df)]===0x0;function _0x4769b7(_0x159708,_0x451e2e){return _0x316e65(_0x159708,_0x451e2e-0x17d);}updateVolumeUI();};const _0x194f13=_0xc8dc24=>{const _0x7f66e7=Math[_0x32b9b3(0x42e,0x3c4)](_0xc8dc24/0xe10),_0x3e69d2=Math[_0x32b9b3(0x435,0x3c4)](_0xc8dc24%0xe10/0x3c),_0x2897b9=Math[_0x32b9b3(0x372,0x3c4)](_0xc8dc24%0x3c);function _0x32b9b3(_0x15a9fd,_0x3e0f29){return _0x316e65(_0x15a9fd,_0x3e0f29-0x377);}return _0x7f66e7>0x0?_0x7f66e7+':'+_0x3e69d2[_0x32b9b3(0x45d,0x44a)]()[_0x32b9b3(0x3e1,0x3f7)](0x2,'0')+':'+_0x2897b9[_0x32b9b3(0x41c,0x44a)]()[_0x32b9b3(0x3a3,0x3f7)](0x2,'0'):_0x3e69d2[_0x32b9b3(0x47a,0x44a)]()[_0x32b9b3(0x401,0x3f7)](0x2,'0')+':'+_0x2897b9[_0x32b9b3(0x45d,0x44a)]()[_0x32b9b3(0x381,0x3f7)](0x2,'0');};function _0x9e1bc6(){if(isScrubbing)return;const _0x63b683=video[_0x101db7(-0x237,-0x1bc)],_0x4f6408=video[_0x101db7(-0x218,-0x266)]||0x0;let _0x4573c5=![],_0x59a175=0x0;if(shakaPlayer){const _0x1e71bd=shakaPlayer[_0x101db7(-0x200,-0x215)]();_0x1e71bd[_0x101db7(-0xa8,-0x14f)]-_0x1e71bd[_0x101db7(-0x1fc,-0x1ba)]>0xa&&(_0x4573c5=!![],_0x59a175=_0x1e71bd[_0x101db7(-0x17f,-0x14f)]);}else hls&&hls[_0x101db7(-0x16d,-0x1d6)]&&(_0x4573c5=!![],_0x59a175=hls[_0x101db7(-0x1b1,-0x1d6)]);if(_0x4573c5){const _0x4e23a1=Math[_0x101db7(-0x2bc,-0x231)](_0x59a175-_0x63b683);_0x4e23a1>0x2?(timeDisplay[_0x101db7(-0x2b8,-0x258)]='-'+_0x194f13(_0x4e23a1),timeDisplay[_0x101db7(-0x257,-0x267)][_0x101db7(-0x22c,-0x1f7)]=_0x101db7(-0x197,-0x14e)):(timeDisplay[_0x101db7(-0x2f7,-0x258)]=_0x101db7(-0x1b5,-0x259),timeDisplay[_0x101db7(-0x2dc,-0x267)][_0x101db7(-0x2a9,-0x1f7)]=_0x101db7(-0x1ea,-0x253));liveBadge[_0x101db7(-0x2b8,-0x250)][_0x101db7(-0x17c,-0x1fc)](_0x101db7(-0x1a0,-0x1d8));return;}const _0xbba903=_0x4f6408>0x0?_0x63b683/_0x4f6408*0x64:0x0;currentBar[_0x101db7(-0x28a,-0x267)][_0x101db7(-0x193,-0x22e)]=_0xbba903+'%',scrubHead[_0x101db7(-0x239,-0x267)][_0x101db7(-0x284,-0x24f)]=_0xbba903+'%';if(video[_0x101db7(-0x2b9,-0x285)][_0x101db7(-0xbc,-0x16c)]>0x0)bufferBar[_0x101db7(-0x2a8,-0x267)][_0x101db7(-0x1fc,-0x22e)]=video[_0x101db7(-0x1ee,-0x285)][_0x101db7(-0xc0,-0x14f)](video[_0x101db7(-0x2cb,-0x285)][_0x101db7(-0x1fc,-0x16c)]-0x1)/_0x4f6408*0x64+'%';timeDisplay[_0x101db7(-0x27b,-0x267)][_0x101db7(-0x29e,-0x1f7)]=_0x101db7(-0x2bc,-0x253);function _0x101db7(_0x129525,_0x27229c){return _0x316e65(_0x129525,_0x27229c- -0x27e);}timeDisplay[_0x101db7(-0x1fc,-0x258)]=_0x194f13(_0x63b683)+_0x101db7(-0x234,-0x1b2)+_0x194f13(_0x4f6408),liveBadge[_0x101db7(-0x1c3,-0x250)][_0x101db7(-0x1e2,-0x26a)](_0x101db7(-0x206,-0x1d8));}video[_0x316e65(0x67,0x15)]=_0x9e1bc6,timeDisplay[_0x316e65(-0x4d,0x21)]=_0x155725=>{_0x155725[_0x352da8(0x55a,0x583)]();function _0x352da8(_0x292e93,_0x5cb21f){return _0x316e65(_0x5cb21f,_0x292e93-0x451);}goToLive();};const _0x297ff6=_0x1395ac=>{function _0x49514a(_0x2d9592,_0x18021){return _0x316e65(_0x18021,_0x2d9592- -0x1b8);}const _0x4be0d0=progressContainer[_0x49514a(-0x196,-0x239)](),_0x1f8973=_0x1395ac[_0x49514a(-0x1c7,-0x13d)]?_0x1395ac[_0x49514a(-0x1c7,-0x143)][0x0][_0x49514a(-0x16d,-0x166)]:_0x1395ac[_0x49514a(-0x16d,-0x204)];video[_0x49514a(-0xf6,-0xa1)]=Math[_0x49514a(-0x1d2,-0x26f)](0x0,Math[_0x49514a(-0x1c0,-0x1af)](0x1,(_0x1f8973-_0x4be0d0[_0x49514a(-0x189,-0x1c6)])/_0x4be0d0[_0x49514a(-0x168,-0x1de)]))*video[_0x49514a(-0x1a0,-0x18c)];};progressContainer[_0x316e65(-0x1d,0xd)]=_0x202d65=>{isScrubbing=!![],_0x297ff6(_0x202d65);function _0x3e8c55(_0x230a47,_0x499c10){return _0x316e65(_0x499c10,_0x230a47-0x209);}document[_0x3e8c55(0x2b5,0x2ac)]=_0x297ff6,document[_0x3e8c55(0x2ef,0x30d)]=()=>{function _0x198b38(_0x55a065,_0x38e52b){return _0x3e8c55(_0x55a065- -0x76,_0x38e52b);}isScrubbing=![],document[_0x198b38(0x23f,0x2a7)]=null;};},progressContainer[_0x316e65(0xcf,0x108)]=_0xa04c07=>{isScrubbing=!![];function _0x139092(_0x3592a4,_0x27379b){return _0x316e65(_0x27379b,_0x3592a4-0xa);}_0x297ff6(_0xa04c07),document[_0x139092(0x61,0xed)]=_0xf65bdc=>isScrubbing&&_0x297ff6(_0xf65bdc),document[_0x139092(0x50,0x89)]=()=>{isScrubbing=![];function _0x2741df(_0x48456c,_0x2d0c21){return _0x139092(_0x48456c-0x253,_0x2d0c21);}document[_0x2741df(0x2b4,0x313)]=null;};},fullscreenBtn[_0x316e65(-0x6,0x21)]=toggleFullscreen;const _0x2e3908=[_0x316e65(0x7,0xa3),_0x316e65(0x120,0x117),_0x316e65(0x7c,0x8e),_0x316e65(-0x5,-0x17)];let _0x43b69c=0x0;expandBtn[_0x316e65(0x6e,0x21)]=()=>{_0x43b69c=(_0x43b69c+0x1)%_0x2e3908[_0xa036c0(0x343,0x2bd)];function _0xa036c0(_0x4139cf,_0x1a47fc){return _0x316e65(_0x1a47fc,_0x4139cf-0x231);}const _0x3719ca=_0x2e3908[_0x43b69c];video[_0xa036c0(0x25f,0x1da)][_0xa036c0(0x245,0x281)](_0xa036c0(0x2a2,0x200),_0xa036c0(0x346,0x3a5),_0xa036c0(0x2c3,0x2ee));if(_0x3719ca!==_0xa036c0(0x2d4,0x378))video[_0xa036c0(0x25f,0x22a)][_0xa036c0(0x2b3,0x227)](_0xa036c0(0x2bb,0x366)+_0x3719ca);};let _0x31d2e0;const _0x2bde06=()=>{wrapper[_0xa794d3(0x201,0x265)][_0xa794d3(0x2b8,0x2ee)](_0xa794d3(0x21a,0x246))&&(lastShowTime=Date[_0xa794d3(0x2a7,0x322)]());function _0xa794d3(_0x54190f,_0x49510d){return _0x316e65(_0x49510d,_0x54190f-0x1d3);}wrapper[_0xa794d3(0x201,0x1d0)][_0xa794d3(0x1e7,0x1f1)](_0xa794d3(0x21a,0x29c)),clearTimeout(_0x31d2e0);if(!video[_0xa794d3(0x20e,0x1a7)])_0x31d2e0=setTimeout(()=>wrapper[_0xa794d3(0x201,0x272)][_0xa794d3(0x255,0x1cf)](_0xa794d3(0x21a,0x28e)),0xfa0);};[_0x316e65(0x8d,0x83),_0x316e65(0x66,0xd6),_0x316e65(0x42,0x67),_0x316e65(0x57,-0x9),_0x316e65(-0x2b,-0xa)][_0x316e65(0x88,0x55)](_0x520381=>{function _0x20413a(_0x4a3502,_0x2bea24){return _0x316e65(_0x4a3502,_0x2bea24-0x281);}window[_0x20413a(0x3dd,0x36b)](_0x520381,_0x2bde06,{'passive':!![]});});function _0x316e65(_0x49e9d3,_0x251ab3){return _0x3ef576(_0x251ab3-0x212,_0x49e9d3);}wrapper[_0x316e65(-0x3e,0x21)]=_0x9b81d7=>{function _0x387e35(_0x376b78,_0x459012){return _0x316e65(_0x376b78,_0x459012-0x436);}(_0x9b81d7[_0x387e35(0x47f,0x4e3)]===wrapper||_0x9b81d7[_0x387e35(0x51c,0x4e3)]===video||_0x9b81d7[_0x387e35(0x576,0x4e3)]===customUI)&&(wrapper[_0x387e35(0x513,0x464)][_0x387e35(0x482,0x51b)](_0x387e35(0x4ae,0x47d))?_0x2bde06():Date[_0x387e35(0x4c0,0x50a)]()-lastShowTime>0x12c?(wrapper[_0x387e35(0x4ec,0x464)][_0x387e35(0x4c9,0x4b8)](_0x387e35(0x44b,0x47d)),clearTimeout(_0x31d2e0)):_0x2bde06());};let _0x309336=0x0;castBtn[_0x316e65(-0x40,0x21)]=async()=>{let _0x2ef55a=_0x309336%0x2;_0x309336++;function _0x535ba7(_0x54debc,_0x35bce4){return _0x316e65(_0x54debc,_0x35bce4- -0x320);}console[_0x535ba7(-0x321,-0x2eb)](_0x535ba7(-0x25e,-0x1da)+_0x309336+_0x535ba7(-0x1eb,-0x220)+_0x2ef55a);if(_0x2ef55a===0x0){if(typeof cast!==_0x535ba7(-0x2c4,-0x21c)&&cast[_0x535ba7(-0x1df,-0x22a)])try{const _0xe1578=cast[_0x535ba7(-0x1d2,-0x22a)][_0x535ba7(-0x301,-0x32d)][_0x535ba7(-0x166,-0x205)]();if(_0xe1578){_0xe1578[_0x535ba7(-0x218,-0x26f)]({'receiverApplicationId':chrome[_0x535ba7(-0x354,-0x30a)][_0x535ba7(-0x2e6,-0x30f)][_0x535ba7(-0x32b,-0x2d1)],'autoJoinPolicy':chrome[_0x535ba7(-0x3b8,-0x30a)][_0x535ba7(-0x23d,-0x1ec)][_0x535ba7(-0x1af,-0x233)]}),await _0xe1578[_0x535ba7(-0x1eb,-0x1ff)]();return;}}catch(_0x2d28bd){_0x2d28bd[_0x535ba7(-0x267,-0x2b4)]!==_0x535ba7(-0x23d,-0x2dc)&&!_0x2d28bd[_0x535ba7(-0x271,-0x2e2)]?.[_0x535ba7(-0x299,-0x256)](_0x535ba7(-0x26e,-0x289))&&console[_0x535ba7(-0x247,-0x1f4)](_0x535ba7(-0x382,-0x338),_0x2d28bd);}_0x2ef55a=0x1;}if(_0x2ef55a===0x1){if(video[_0x535ba7(-0x1f1,-0x29a)])video[_0x535ba7(-0x2ba,-0x29a)]();else{if(video[_0x535ba7(-0x29c,-0x253)]&&video[_0x535ba7(-0x255,-0x253)][_0x535ba7(-0x279,-0x201)])try{await video[_0x535ba7(-0x1af,-0x253)][_0x535ba7(-0x26e,-0x201)]();}catch(_0xc8c6f2){!_0xc8c6f2[_0x535ba7(-0x28f,-0x2e2)]?.[_0x535ba7(-0x236,-0x256)](_0x535ba7(-0x234,-0x289))&&console[_0x535ba7(-0x163,-0x1f4)](_0x535ba7(-0x30c,-0x303),_0xc8c6f2);}else alert(_0x535ba7(-0x242,-0x235));}}},pipBtn[_0x316e65(-0x28,0x21)]=async()=>{function _0x4278cd(_0x246473,_0x4679ed){return _0x316e65(_0x246473,_0x4679ed- -0x2f2);}try{video!==document[_0x4278cd(-0x315,-0x276)]?await video[_0x4278cd(-0x302,-0x265)]():await document[_0x4278cd(-0x26b,-0x1c0)]();}catch(_0x6456cc){console[_0x4278cd(-0x27b,-0x22d)](_0x4278cd(-0x1f3,-0x1ef),_0x6456cc);}},settingsBtn[_0x316e65(-0x87,0x21)]=_0x1c4028=>{_0x1c4028[_0x1d8cce(-0xcb,-0x46)](),settingsMenu[_0x1d8cce(-0xe2,-0x121)][_0x1d8cce(-0xcf,-0xdb)](_0x1d8cce(-0xc6,-0x14)),videoTracksList[_0x1d8cce(-0xa5,-0x121)][_0x1d8cce(-0xa2,-0xcd)](_0x1d8cce(-0xf5,-0xd4));function _0x1d8cce(_0x3c190f,_0x382efa){return _0x316e65(_0x3c190f,_0x382efa- -0x14f);}audioTracksList[_0x1d8cce(-0x87,-0x121)][_0x1d8cce(-0x1c,-0xcd)](_0x1d8cce(-0x8a,-0xd4)),textTracksList[_0x1d8cce(-0x17a,-0x121)][_0x1d8cce(-0x44,-0xcd)](_0x1d8cce(-0xd8,-0xd4));},videoTrackMenu[_0x316e65(0xb2,0x21)]=_0x40b937=>{_0x40b937[_0x3e7b5c(-0x138,-0xb2)](),videoTracksList[_0x3e7b5c(-0x152,-0x18d)][_0x3e7b5c(-0x1a7,-0x147)](_0x3e7b5c(-0x18c,-0x140)),audioTracksList[_0x3e7b5c(-0x22b,-0x18d)][_0x3e7b5c(-0xc4,-0x139)](_0x3e7b5c(-0xa4,-0x140));function _0x3e7b5c(_0x54a7af,_0x1e7e64){return _0x316e65(_0x54a7af,_0x1e7e64- -0x1bb);}textTracksList[_0x3e7b5c(-0x1ca,-0x18d)][_0x3e7b5c(-0xed,-0x139)](_0x3e7b5c(-0xdb,-0x140));},audioTrackMenu[_0x316e65(-0x31,0x21)]=_0x224699=>{function _0x2e3b1a(_0x27edf5,_0x59449b){return _0x316e65(_0x27edf5,_0x59449b- -0x50);}_0x224699[_0x2e3b1a(0x107,0xb9)](),audioTracksList[_0x2e3b1a(-0x58,-0x22)][_0x2e3b1a(-0x4,0x24)](_0x2e3b1a(-0x40,0x2b)),videoTracksList[_0x2e3b1a(-0x27,-0x22)][_0x2e3b1a(-0x7f,0x32)](_0x2e3b1a(0x22,0x2b)),textTracksList[_0x2e3b1a(0x3f,-0x22)][_0x2e3b1a(0x4d,0x32)](_0x2e3b1a(-0x50,0x2b));},textTrackMenu[_0x316e65(0x46,0x21)]=_0x7b0758=>{_0x7b0758[_0x4e848f(0x4f8,0x55e)](),textTracksList[_0x4e848f(0x501,0x483)][_0x4e848f(0x480,0x4c9)](_0x4e848f(0x513,0x4d0)),videoTracksList[_0x4e848f(0x461,0x483)][_0x4e848f(0x4d6,0x4d7)](_0x4e848f(0x449,0x4d0));function _0x4e848f(_0x4b0c59,_0x52bf39){return _0x316e65(_0x4b0c59,_0x52bf39-0x455);}audioTracksList[_0x4e848f(0x3e2,0x483)][_0x4e848f(0x54f,0x4d7)](_0x4e848f(0x42b,0x4d0));},document[_0x316e65(-0xd,0x21)]=()=>settingsMenu[_0x316e65(0x67,0x2e)][_0x316e65(-0x8a,0x14)](_0x316e65(0x110,0x13b));}function updateTrackLists(_0x532220){function _0x5da893(_0x56fa57,_0x293fe6){return _0x3ef576(_0x56fa57-0x284,_0x293fe6);}videoTracksList[_0x5da893(0x75,0xf5)]='',audioTracksList[_0x5da893(0x75,0x118)]='',textTracksList[_0x5da893(0x75,0x5f)]='';if(_0x532220===_0x5da893(0x78,0x112)){const _0x4cb3ec=document[_0x5da893(0x103,0x8f)](_0x5da893(0x85,0x112)),_0x5758c8=hls[_0x5da893(0x188,0x112)][hls[_0x5da893(0x119,0xb8)]]||hls[_0x5da893(0x188,0x142)][hls[_0x5da893(0x101,0xf9)]],_0x3869fb=hls[_0x5da893(0x1b5,0x16e)]&&_0x5758c8?'\x20('+_0x5758c8[_0x5da893(0x6c,0xfe)]+'p)':'';_0x4cb3ec[_0x5da893(0x153,0x122)]=_0x5da893(0xeb,0x50)+(hls[_0x5da893(0x1b5,0x169)]?_0x5da893(0x1af,0x251):''),_0x4cb3ec[_0x5da893(0x75,0x8b)]=_0x5da893(0xaa,0x39)+_0x3869fb+_0x5da893(0x1b0,0x172),_0x4cb3ec[_0x5da893(0x93,0x9c)]=()=>{hls[_0x54d35d(0x276,0x2c8)]=-0x1,manualQualityId=null,updateTrackLists(_0x54d35d(0x1d5,0x1ee));function _0x54d35d(_0x4972e7,_0x636f0a){return _0x5da893(_0x4972e7-0x15d,_0x636f0a);}const _0x3cbd7a=hls[_0x54d35d(0x2e5,0x34f)][hls[_0x54d35d(0x276,0x20f)]]||hls[_0x54d35d(0x2e5,0x241)][hls[_0x54d35d(0x25e,0x1b5)]];currentQuality[_0x54d35d(0x300,0x353)]=_0x3cbd7a?_0x54d35d(0x258,0x2ff)+_0x3cbd7a[_0x54d35d(0x1c9,0x25c)]+'p)':_0x54d35d(0x273,0x249);},videoTracksList[_0x5da893(0x16e,0xe2)](_0x4cb3ec);const _0x544355=new Map();hls[_0x5da893(0x188,0x1ba)][_0x5da893(0xc7,0x11b)]((_0x1138f5,_0xc0ea53)=>{if(!_0x1138f5[_0x5d83d9(-0x28f,-0x2b6)]||_0x1138f5[_0x5d83d9(-0x225,-0x2b6)]===0x0)return;let _0x54084f=_0x1138f5[_0x5d83d9(-0x266,-0x1e5)]?_0x1138f5[_0x5d83d9(-0x1e9,-0x1e5)][_0x5d83d9(-0x24b,-0x2ae)]||_0x1138f5[_0x5d83d9(-0x23e,-0x1e5)][_0x5d83d9(-0x255,-0x279)]:null;if(!_0x54084f&&_0x1138f5[_0x5d83d9(-0x234,-0x1c7)])_0x54084f=_0x1138f5[_0x5d83d9(-0x141,-0x1c7)];const _0xbb5120=_0x54084f?Math[_0x5d83d9(-0xc4,-0x171)](_0x54084f):0x0;function _0x5d83d9(_0x3fcaf1,_0xab7539){return _0x5da893(_0xab7539- -0x322,_0x3fcaf1);}const _0x37a019=_0x1138f5[_0x5d83d9(-0x23b,-0x2b6)]+'-'+_0xbb5120,_0x284ab0=_0x544355[_0x5d83d9(-0x151,-0x1cc)](_0x37a019);(!_0x284ab0||_0x1138f5[_0x5d83d9(-0x2e2,-0x291)]>_0x284ab0[_0x5d83d9(-0x1be,-0x186)][_0x5d83d9(-0x1e6,-0x291)])&&_0x544355[_0x5d83d9(-0x274,-0x205)](_0x37a019,{'level':_0x1138f5,'index':_0xc0ea53,'fpsText':_0x54084f?_0x5d83d9(-0x25a,-0x1e4)+Math[_0x5d83d9(-0x10a,-0x171)](_0x54084f)+_0x5d83d9(-0x212,-0x1ef):''});});const _0x3819c2=Array[_0x5da893(0xc3,0x105)](_0x544355[_0x5da893(0xae,0x91)]())[_0x5da893(0x113,0x18a)]((_0x95266d,_0x2bb9f5)=>_0x2bb9f5[_0x5da893(0x19c,0x12b)][_0x5da893(0x6c,0x84)]-_0x95266d[_0x5da893(0x19c,0x16f)][_0x5da893(0x6c,0x79)]);_0x3819c2[_0x5da893(0xc7,0xca)](({level:_0x242370,index:_0xd390c,fpsText:_0x2e44eb})=>{function _0xb1d6e6(_0x3eb39e,_0x4b4c63){return _0x5da893(_0x3eb39e-0x1fb,_0x4b4c63);}const _0x58667c=document[_0xb1d6e6(0x2fe,0x2c6)](_0xb1d6e6(0x280,0x226));_0x58667c[_0xb1d6e6(0x34e,0x377)]=_0xb1d6e6(0x2e6,0x295)+(manualQualityId===_0xb1d6e6(0x259,0x222)+_0xd390c?_0xb1d6e6(0x3aa,0x359):'');const _0x56a9e2=(_0x242370[_0xb1d6e6(0x28c,0x292)]/0xf4240)[_0xb1d6e6(0x2ee,0x315)](0x1);_0x58667c[_0xb1d6e6(0x270,0x261)]=_0xb1d6e6(0x35e,0x3cb)+_0x242370[_0xb1d6e6(0x267,0x221)]+_0xb1d6e6(0x309,0x337)+_0x56a9e2+_0xb1d6e6(0x378,0x2ef)+_0x2e44eb+_0xb1d6e6(0x2ae,0x304),_0x58667c[_0xb1d6e6(0x28e,0x2a9)]=()=>{hls[_0x44d1a2(0x1f7,0x196)]=_0xd390c,manualQualityId=_0x44d1a2(0x13c,0x15f)+_0xd390c;function _0x44d1a2(_0x3d335a,_0x42bdaf){return _0xb1d6e6(_0x3d335a- -0x11d,_0x42bdaf);}updateTrackLists(_0x44d1a2(0x156,0x1e0)),currentQuality[_0x44d1a2(0x281,0x242)]=_0x242370[_0x44d1a2(0x14a,0x11b)]+'p';},videoTracksList[_0xb1d6e6(0x369,0x37f)](_0x58667c);});if(hls[_0x5da893(0xb2,0xc9)][_0x5da893(0x184,0x12b)]===0x0){const _0x217929=document[_0x5da893(0x103,0x5d)](_0x5da893(0x85,0x3a));_0x217929[_0x5da893(0x153,0x193)]=_0x5da893(0x142,0x160),_0x217929[_0x5da893(0x1a3,0x191)]=_0x5da893(0x1b6,0x16e),audioTracksList[_0x5da893(0x16e,0x1d2)](_0x217929);}else hls[_0x5da893(0xb2,0x22)][_0x5da893(0xc7,0x51)]((_0x14acf7,_0x2255b2)=>{const _0x369def=document[_0x1a1d97(0x1d6,0x27c)](_0x1a1d97(0x220,0x1fe));function _0x1a1d97(_0x2b3651,_0x2af339){return _0x5da893(_0x2af339-0x179,_0x2b3651);}_0x369def[_0x1a1d97(0x34d,0x2cc)]=_0x1a1d97(0x271,0x264)+(hls[_0x1a1d97(0x2a7,0x2c3)]===_0x2255b2?_0x1a1d97(0x2dd,0x328):''),_0x369def[_0x1a1d97(0x393,0x31c)]=_0x14acf7[_0x1a1d97(0x1f3,0x1e8)]||_0x14acf7[_0x1a1d97(0x262,0x2ed)]||_0x1a1d97(0x35c,0x2ff)+(_0x2255b2+0x1),_0x369def[_0x1a1d97(0x28b,0x20c)]=()=>{hls[_0x3971dc(0x2a5,0x344)]=_0x2255b2,updateTrackLists(_0x3971dc(0x274,0x272));function _0x3971dc(_0x3b103d,_0x442a87){return _0x1a1d97(_0x3b103d,_0x442a87-0x81);}currentAudio[_0x3971dc(0x322,0x39d)]=_0x369def[_0x3971dc(0x402,0x39d)];},audioTracksList[_0x1a1d97(0x322,0x2e7)](_0x369def);if(_0x14acf7[_0x1a1d97(0x326,0x2ed)]==='ar'&&hls[_0x1a1d97(0x26d,0x2c3)]===-0x1)hls[_0x1a1d97(0x336,0x2c3)]=_0x2255b2;});const _0x330356=document[_0x5da893(0x103,0x120)](_0x5da893(0x85,-0x12));_0x330356[_0x5da893(0x153,0x103)]=_0x5da893(0x142,0x184),_0x330356[_0x5da893(0x1a3,0x196)]=_0x5da893(0x8e,0x7d),textTracksList[_0x5da893(0x16e,0x1a3)](_0x330356);}else{const _0x416742=document[_0x5da893(0x103,0x17d)](_0x5da893(0x85,0xe7)),_0x27f4ce=shakaPlayer[_0x5da893(0xe1,0x81)]()[_0x5da893(0x160,0x178)][_0x5da893(0x62,0x107)],_0x569b0d=shakaPlayer[_0x5da893(0x105,0x151)]()[_0x5da893(0x16b,0x1a7)](_0x111dce=>_0x111dce[_0x5da893(0x196,0x1c4)]),_0x415002=_0x27f4ce&&_0x569b0d?'\x20('+_0x569b0d[_0x5da893(0x6c,0x54)]+'p)':'';_0x416742[_0x5da893(0x153,0x1a1)]=_0x5da893(0xeb,0x183)+(_0x27f4ce?_0x5da893(0x1af,0x163):''),_0x416742[_0x5da893(0x75,0xb2)]=_0x5da893(0xaa,0x132)+_0x415002+_0x5da893(0x1b0,0x11b),_0x416742[_0x5da893(0x93,0x2d)]=()=>{shakaPlayer[_0xc3a55d(-0x1b9,-0x19d)]({'abr':{'enabled':!![]}}),manualQualityId=null;function _0xc3a55d(_0x466e10,_0x422a30){return _0x5da893(_0x422a30- -0x241,_0x466e10);}updateTrackLists(_0xc3a55d(-0xd0,-0xfd));const _0x3da7d1=shakaPlayer[_0xc3a55d(-0xed,-0x13c)]()[_0xc3a55d(-0x15e,-0xd6)](_0x174283=>_0x174283[_0xc3a55d(-0x53,-0xab)]);currentQuality[_0xc3a55d(-0x127,-0x9e)]=_0x3da7d1?_0xc3a55d(-0x1ea,-0x146)+_0x3da7d1[_0xc3a55d(-0x236,-0x1d5)]+'p)':_0xc3a55d(-0xae,-0x12b);},videoTracksList[_0x5da893(0x16e,0x1ed)](_0x416742);const _0x415487=shakaPlayer[_0x5da893(0x105,0x70)](),_0x50ac32=new Map();_0x415487[_0x5da893(0xc7,0x65)](_0x3daac7=>{if(!_0x3daac7[_0x26b84c(0x31c,0x2e5)]||_0x3daac7[_0x26b84c(0x252,0x2e5)]===0x0)return;const _0x128e16=_0x3daac7[_0x26b84c(0x430,0x3d4)]?Math[_0x26b84c(0x40b,0x42a)](_0x3daac7[_0x26b84c(0x39c,0x3d4)]):0x0,_0x22ce9a=_0x3daac7[_0x26b84c(0x278,0x2e5)]+'-'+_0x128e16;function _0x26b84c(_0x28f439,_0x99bf3a){return _0x5da893(_0x99bf3a-0x279,_0x28f439);}const _0x3d28ef=_0x50ac32[_0x26b84c(0x320,0x3cf)](_0x22ce9a);(!_0x3d28ef||_0x3daac7[_0x26b84c(0x336,0x313)]>_0x3d28ef[_0x26b84c(0x388,0x313)])&&_0x50ac32[_0x26b84c(0x3fd,0x396)](_0x22ce9a,_0x3daac7);});const _0x523931=Array[_0x5da893(0xc3,0x15c)](_0x50ac32[_0x5da893(0xae,0x13d)]())[_0x5da893(0x113,0x174)]((_0x8d04f3,_0x22f599)=>_0x22f599[_0x5da893(0x6c,0x47)]-_0x8d04f3[_0x5da893(0x6c,-0x11)]);_0x523931[_0x5da893(0xc7,0x101)](_0x1bb61d=>{const _0x3a478f=document[_0x28b1c3(0x360,0x31a)](_0x28b1c3(0x30e,0x29c));_0x3a478f[_0x28b1c3(0x337,0x36a)]=_0x28b1c3(0x389,0x302)+(manualQualityId===_0x28b1c3(0x20c,0x26e)+_0x1bb61d['id']?_0x28b1c3(0x393,0x3c6):'');const _0xc44fdd=(_0x1bb61d[_0x28b1c3(0x264,0x2b1)]/0xf4240)[_0x28b1c3(0x34d,0x30a)](0x1),_0x2d4436=_0x1bb61d[_0x28b1c3(0x322,0x372)]?_0x28b1c3(0x398,0x355)+Math[_0x28b1c3(0x365,0x3c8)](_0x1bb61d[_0x28b1c3(0x316,0x372)])+_0x28b1c3(0x39f,0x34a):'';_0x3a478f[_0x28b1c3(0x223,0x28c)]=_0x28b1c3(0x3fe,0x37a)+_0x1bb61d[_0x28b1c3(0x2d7,0x283)]+_0x28b1c3(0x2dc,0x325)+_0xc44fdd+_0x28b1c3(0x358,0x394)+_0x2d4436+_0x28b1c3(0x26f,0x2ca);function _0x28b1c3(_0x1dd79a,_0x36592d){return _0x5da893(_0x36592d-0x217,_0x1dd79a);}_0x3a478f[_0x28b1c3(0x260,0x2aa)]=()=>{shakaPlayer[_0x1e65ec(0x289,0x28c)]({'abr':{'enabled':![]}}),shakaPlayer[_0x1e65ec(0x3b5,0x36d)](_0x1bb61d,!![]);function _0x1e65ec(_0x1203bc,_0x296a7a){return _0x28b1c3(_0x1203bc,_0x296a7a- -0x2f);}manualQualityId=_0x1e65ec(0x1b9,0x23f)+_0x1bb61d['id'],updateTrackLists(_0x1e65ec(0x2b7,0x32c)),currentQuality[_0x1e65ec(0x347,0x38b)]=_0x1bb61d[_0x1e65ec(0x279,0x254)]+'p';},videoTracksList[_0x28b1c3(0x3bb,0x385)](_0x3a478f);});const _0x52ab21=[...new Set(shakaPlayer[_0x5da893(0x1b9,0x17d)]()[_0x5da893(0x177,0x1d4)](_0x20ef10=>_0x20ef10[_0x5da893(0xcb,0x105)]))];if(_0x52ab21[_0x5da893(0x184,0x21f)]===0x0){const _0x2bedeb=document[_0x5da893(0x103,0x87)](_0x5da893(0x85,0xd7));_0x2bedeb[_0x5da893(0x153,0x19e)]=_0x5da893(0x142,0xaa),_0x2bedeb[_0x5da893(0x1a3,0x215)]=_0x5da893(0x5d,0x64),audioTracksList[_0x5da893(0x16e,0x1c7)](_0x2bedeb);}else _0x52ab21[_0x5da893(0xc7,0x19)](_0x170336=>{function _0x5e3635(_0x5a76b3,_0x54b048){return _0x5da893(_0x54b048-0xd8,_0x5a76b3);}const _0x1311e1=document[_0x5e3635(0x260,0x1db)](_0x5e3635(0xbc,0x15d)),_0x58f122=shakaPlayer[_0x5e3635(0x255,0x1dd)]()[_0x5e3635(0x28d,0x243)](_0x375984=>_0x375984[_0x5e3635(0x306,0x26e)])?.[_0x5e3635(0x1d5,0x1a3)];_0x1311e1[_0x5e3635(0x181,0x22b)]=_0x5e3635(0x172,0x1c3)+(_0x58f122===_0x170336?_0x5e3635(0x24a,0x287):''),_0x1311e1[_0x5e3635(0x263,0x27b)]=_0x170336[_0x5e3635(0x21a,0x23e)](),_0x1311e1[_0x5e3635(0x1cb,0x16b)]=()=>{shakaPlayer[_0x154357(0x300,0x253)](_0x170336);function _0x154357(_0x14e312,_0x464d42){return _0x5e3635(_0x464d42,_0x14e312-0x1c1);}updateTrackLists(_0x154357(0x3dd,0x3f9)),currentAudio[_0x154357(0x43c,0x3e8)]=_0x170336[_0x154357(0x3ff,0x3d8)]();},audioTracksList[_0x5e3635(0x1ef,0x246)](_0x1311e1);});const _0x37b6da=shakaPlayer[_0x5da893(0x76,0x128)]()[_0x5da893(0x177,0x1f7)](_0x193d99=>_0x193d99[_0x5da893(0xcb,0x159)]);if(_0x37b6da[_0x5da893(0x184,0x19e)]===0x0){const _0x108e7b=document[_0x5da893(0x103,0x199)](_0x5da893(0x85,0x52));_0x108e7b[_0x5da893(0x153,0x1dd)]=_0x5da893(0x142,0xc9),_0x108e7b[_0x5da893(0x1a3,0x19c)]=_0x5da893(0x5d,0x0),textTracksList[_0x5da893(0x16e,0x113)](_0x108e7b);}else[...new Set(_0x37b6da)][_0x5da893(0xc7,0xbc)](_0x24e6d6=>{function _0x498baf(_0x2b6f2f,_0x3b6b46){return _0x5da893(_0x3b6b46-0x15,_0x2b6f2f);}const _0x29a23d=document[_0x498baf(0x184,0x118)](_0x498baf(0x92,0x9a));_0x29a23d[_0x498baf(0x1c9,0x168)]=_0x498baf(0xdb,0x100),_0x29a23d[_0x498baf(0x25c,0x1b8)]=_0x24e6d6[_0x498baf(0x154,0x17b)](),_0x29a23d[_0x498baf(0x5d,0xa8)]=()=>{shakaPlayer[_0x56bc05(-0x113,-0x13e)](_0x24e6d6);function _0x56bc05(_0x34cab2,_0x529d3e){return _0x498baf(_0x34cab2,_0x529d3e- -0x1f8);}shakaPlayer[_0x56bc05(-0x186,-0x11e)](!![]);},textTracksList[_0x498baf(0x223,0x183)](_0x29a23d);});}}function _0x4ce2(){const _0x49a432=['__proto__','webkitShowPlaybackTargetPicker','color','val','Auto\x20(','fit-','search','112BIHpKP','requestPictureInPicture','fill','loadLevel','1:1060132526791:web:8ef930b6919bdb17d57ce2','createElement','fit-zoom','getVariantTracks','application/vnd.apple.mpegurl','456226oDMwig','cenc','dismissed','initData','landscape','toLowerCase','videoTrackMenu','p</div><div\x20class=\x22track-meta\x22>','__onGCastApiAvailable','Shaka\x20load\x20failed','audioTracksList','var(--primary)','sort','G-FV0ZJE5JRS','contain','Auto','viewers/','is-live','currentLevel','liveSyncPosition','https://playerwatching-default-rtdb.firebaseio.com','audioTrackMenu','set','onmousemove','target','Initializing\x20Shaka\x20Player\x20for\x20DASH...','bind','customUI','setOptions','getCurrentSession','fullscreenBtn','action','querySelector','chain','allow','size','isSupported','Shaka\x20Error:','update','catch','137848CpGSWY','onplay','none','centerRewind','\x20fps','currentTime','332825XmoWue','start','error','display','call','org.w3.clearkey','1792946MszSKP','includes','attrs','\x20/\x20','remote','SESSION_STATE_CHANGED','input','track-option\x20disabled','{}.constructor(\x22return\x20this\x22)(\x20)','shaka','toString','now','SESSION_STARTED','mousedown','exception','audioTrack','LoadRequest','return\x20(function()\x20','Player','loadingSpinner','requestMediaKeySystemAccess','currentBar','split','getElementById','className','unlock','value','get','contains','onmouseup','htxtpsAe:q/T/cjhaEtg.whaiJOtsaREpTAAp.PbcOofjzm/KkyTqnBrdCR1GhZXLFUWbVgXs8N8zDCubEfHxb6QbSbIVRPXqNlVfbMXqHqbzMgJ','application/x-mpegURL','frameRate','addEventListener','عذراً،\x20لم\x20يتم\x20العثور\x20على\x20وسيلة\x20كاست\x20مدعومة\x20في\x20جهازك.','.mpd','ORIGIN_SCOPED','abr','table','playerwatching','<div\x20class=\x22track-label\x22>','DOMContentLoaded','oct','toUpperCase','oninput','framework','volumeSlider','loadMedia','find','test','fullscreenElement','appendChild','while\x20(true)\x20{}','currentAudio','\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','\x20using\x20Method\x20Index\x20','pipBtn','lang','PiP\x20error:','undefined','map','<i\x20class=\x22ph-fill\x20ph-pause\x22></i>','playPauseBtn','ontouchstart','stopPropagation','<i\x20class=\x22ph-bold\x20ph-corners-in\x22></i>','\x20Mbps','preventDefault','constructor','EME\x20Setup\x20failed','2595468rePAbJ','variantchanged','AIzaSyCO065Z-UcVe7tl3ebiO_Qbw1lPntna6qM','length','selectVariantTrack','Audio\x20','fit-fill','levels','cover','1060132526791','rewindBtn','exitFullscreen','getInstance','video-paused','pause','liveBadge','prompt','Audio\x20restored\x20on\x20first\x20interaction','requestSession','muteBtn','Events','active','20uVmbQF','trace','muted','temporary','pointerdown','level','could\x20not\x20establish\x20onDisconnect\x20event','warn','installAll','prototype','end','#ff4b2b','innerText','exitPictureInPicture','castBtn','AutoJoinPolicy','MANIFEST_PARSED','webkitRequestFullscreen','currentQuality','apply','setMediaKeys','currentText','show','expandBtn','\x20active','</span>','round','[xAeqTjEgiJORETAAPbOfjzTqCRXUbVgXNzCbEfHxbbbIVRPXqNlVfbMXqHqbzMgJ]','progressBar','Autoplay\x20blocked','autoLevelEnabled','لا\x20يوجد\x20صوت\x20إضافي','playerWrapper','Casting\x20Attempt\x20#','getAudioLanguagesAndRoles','shaka-','max','centerPlayPause','Google\x20Cast\x20SDK\x20failed:','zoom','<i\x20class=\x22ph-bold\x20ph-corners-out\x22></i>','None','hls-','<i\x20class=\x22ph-fill\x20ph-speaker-x\x22></i>','bufferBar','onpause','enabled','touches','src','CastContext','createSession','selectAudioLanguage','touchmove','touchstart','min','buffered','height','indexOf','SessionState','name','video/mp4;\x20codecs=\x22avc1.42E01E\x22','charCodeAt','function','<i\x20class=\x22ph-fill\x20ph-speaker-low\x22></i>','FRAME-RATE','innerHTML','getTextTracks','toLocaleString','hls','initDataType','block','autoQualityLabel','gger','<i\x20class=\x22ph-bold\x20ph-screencast\x22></i>','333dLSQcq','onmousedown','onplaying','createMediaKeys','detail','media','polyfill','div','remove','ontimeupdate','cast','style','duration','counter','webkitExitFullscreen','Hls','لا\x20توجد\x20ترجمة','Remote\x20Playback\x20failed:','<i\x20class=\x22ph-fill\x20ph-screencast\x22></i>','bitrate','replace','onclick','getBoundingClientRect','x-webkit-airplay','textTracksList','LIVE','textContent','Unmute\x20failed:','bandwidth','playerwatching.firebasestorage.app','Initializing\x20HLS.js\x20for\x20M3U8...','white','function\x20*\x5c(\x20*\x5c)','string','classList','left','loadSource','Fullscreen\x20error:','configure','selectTextLanguage','attachMedia','log','forwardBtn','frame-rate','<span\x20id=\x22autoQualityLabel\x22>Auto','substr','generateRequest','paused','values','<i\x20class=\x22ph-fill\x20ph-play\x22></i>','message','onwaiting','audioTracks','</div>','textTrackMenu','setAttribute','cancel','lock','ontouchend','idle','encode','MediaInfo','CastContextEventType','clientX','viewerNumber','floor','orientation','DEFAULT_MEDIA_RECEIVER_APP_ID','width','from','console','setTextTrackVisibility','LEVEL_SWITCHED','forEach','scrubHead','ontouchmove','info','language','play','destroy','settingsBtn','encrypted','videoTracksList','(((.+)+)+)+$','sessionState','stringify','volume','centerForward','slice','requestFullscreen','[OTLKUdUORxnJhYHjKQdwLVfRRRxffShDSdYBFShHBGXwOwLuOkqNFRIjHJDBu]','keydown','canPlayType','seekRange','4372728wEfspN','.info/connected','code','Orientation\x20lock\x20failed:','fromCharCode','getConfiguration','load','fit-cover','.progress-container','settingsMenu','toggle','159080VlKjbD','<i\x20class=\x22ph-fill\x20ph-speaker-high\x22></i>','stateObject','videoElement','track-option','timeDisplay','hidden','pictureInPictureElement','OTLplKaUydUersbOasRsaxmnJh.bYloHgsjKpQodtw.LcVfRoRRxffmShDSdYBFShHBGXwOwLuOkqNFRIjHJDBu','init','playerwatching.firebaseapp.com','padStart','toFixed','add','mousemove','debu'];_0x4ce2=function(){return _0x49a432;};return _0x4ce2();}document[_0x3ef576(-0x128,-0x1b6)](_0x3ef576(-0x120,-0x191),initPlayer);function _0x5accec(_0x2792f5){function _0x1764ff(_0x3930a6){if(typeof _0x3930a6===_0x4549c3(-0x24f,-0x25a))return function(_0x3dde3e){}[_0x4549c3(-0x20c,-0x17a)](_0x4549c3(-0x215,-0x18a))[_0x4549c3(-0x111,-0x14f)](_0x4549c3(-0x1fd,-0x26e));else(''+_0x3930a6/_0x3930a6)[_0x4549c3(-0xc5,-0x175)]!==0x1||_0x3930a6%0x14===0x0?function(){return!![];}[_0x4549c3(-0x166,-0x17a)](_0x4549c3(-0x176,-0x203)+_0x4549c3(-0x1fa,-0x27d))[_0x4549c3(-0x140,-0x1c0)](_0x4549c3(-0x1cd,-0x1d3)):function(){return![];}[_0x4549c3(-0x18d,-0x17a)](_0x4549c3(-0x29f,-0x203)+_0x4549c3(-0x2e4,-0x27d))[_0x4549c3(-0x169,-0x14f)](_0x4549c3(-0x1a1,-0x210));function _0x4549c3(_0x3f3ea7,_0x2b687d){return _0x2f25(_0x2b687d- -0x32c,_0x3f3ea7);}_0x1764ff(++_0x3930a6);}try{if(_0x2792f5)return _0x1764ff;else _0x1764ff(0x0);}catch(_0x1a5d29){}}
+// player.js (ES Module + Hybrid Engine: HLS.js + Shaka)
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-app.js";
+import { getDatabase, ref, push, onValue, onDisconnect, set, remove } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-database.js";
+
+const firebaseConfig = {
+    apiKey: "AIzaSyCO065Z-UcVe7tl3ebiO_Qbw1lPntna6qM",
+    authDomain: "playerwatching.firebaseapp.com",
+    databaseURL: "https://playerwatching-default-rtdb.firebaseio.com",
+    projectId: "playerwatching",
+    storageBucket: "playerwatching.firebasestorage.app",
+    messagingSenderId: "1060132526791",
+    appId: "1:1060132526791:web:8ef930b6919bdb17d57ce2",
+    measurementId: "G-FV0ZJE5JRS"
+};
+
+// ---------------- CONFIGURATION ----------------
+const CHANNEL_ID = "bein1";
+const STREAM_URL = "https://joaanksa.com/bein/MN2.php?action=stream&id=116900&cat=4524";
+const DRM_KEYS = "b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42";
+// -----------------------------------------------
+
+const firebaseApp = initializeApp(firebaseConfig);
+const database = getDatabase(firebaseApp);
+
+let video, wrapper, customUI;
+let playPauseBtn, centerPlayPauseBtn, centerRewindBtn, centerForwardBtn, rewindBtn, forwardBtn, muteBtn, volumeSlider, timeDisplay, fullscreenBtn, expandBtn, pipBtn, castBtn, loadingSpinner, liveBadge;
+let progressContainer, progressBar, bufferBar, currentBar, scrubHead;
+let settingsBtn, settingsMenu, videoTrackMenu, audioTrackMenu, textTrackMenu, videoTracksList, audioTracksList, textTracksList;
+let currentQuality, currentAudio, currentText;
+let viewerNumber;
+
+let hls;
+let shakaPlayer;
+let castContext;
+let isScrubbing = false;
+let liveInterval;
+let manualQualityId = null; // Track manual quality selection for UI stickiness
+let lastShowTime = 0; // Guard for YouTube-style toggle logic
+
+/**
+ * Update Volume UI (Global Scale Fix)
+ */
+function updateVolumeUI() {
+    if (!video || !volumeSlider || !muteBtn) return;
+    const vol = video.volume;
+    const muted = video.muted;
+    if (muted || vol === 0) {
+        muteBtn.innerHTML = '<i class="ph-fill ph-speaker-x"></i>';
+        volumeSlider.value = 0;
+    } else {
+        muteBtn.innerHTML = vol < 0.5 ? '<i class="ph-fill ph-speaker-low"></i>' : '<i class="ph-fill ph-speaker-high"></i>';
+        volumeSlider.value = vol;
+    }
+}
+
+/**
+ * Initialize Hybrid Player
+ */
+async function initPlayer() {
+    if (typeof shaka !== 'undefined') {
+        shaka.polyfill.installAll();
+    }
+
+    video = document.getElementById('videoElement');
+    if (video) {
+        video.setAttribute('x-webkit-airplay', 'allow');
+    }
+    wrapper = document.getElementById('playerWrapper');
+    customUI = document.getElementById('customUI');
+    playPauseBtn = document.getElementById('playPauseBtn');
+    centerPlayPauseBtn = document.getElementById('centerPlayPause');
+    centerRewindBtn = document.getElementById('centerRewind');
+    centerForwardBtn = document.getElementById('centerForward');
+    rewindBtn = document.getElementById('rewindBtn');
+    forwardBtn = document.getElementById('forwardBtn');
+    muteBtn = document.getElementById('muteBtn');
+    volumeSlider = document.getElementById('volumeSlider');
+    timeDisplay = document.getElementById('timeDisplay');
+    fullscreenBtn = document.getElementById('fullscreenBtn');
+    expandBtn = document.getElementById('expandBtn');
+    pipBtn = document.getElementById('pipBtn');
+    castBtn = document.getElementById('castBtn');
+    loadingSpinner = document.getElementById('loadingSpinner');
+    liveBadge = document.getElementById('liveBadge');
+    progressContainer = document.querySelector('.progress-container');
+    progressBar = document.getElementById('progressBar');
+    bufferBar = document.getElementById('bufferBar');
+    currentBar = document.getElementById('currentBar');
+    scrubHead = document.getElementById('scrubHead');
+    settingsBtn = document.getElementById('settingsBtn');
+    settingsMenu = document.getElementById('settingsMenu');
+    videoTrackMenu = document.getElementById('videoTrackMenu');
+    audioTrackMenu = document.getElementById('audioTrackMenu');
+    textTrackMenu = document.getElementById('textTrackMenu');
+    videoTracksList = document.getElementById('videoTracksList');
+    audioTracksList = document.getElementById('audioTracksList');
+    textTracksList = document.getElementById('textTracksList');
+    currentQuality = document.getElementById('currentQuality');
+    currentAudio = document.getElementById('currentAudio');
+    currentText = document.getElementById('currentText');
+    viewerNumber = document.getElementById('viewerNumber');
+
+    if (!video) return;
+
+    setupControls();
+    startViewerCounter(CHANNEL_ID);
+    initCast();
+
+    loadCurrentStream();
+
+    updateVolumeUI(); // Set initial muted icon state
+
+    // Auto-unmute on first interaction (Browser requirement: Needs one user gesture)
+async function unmuteOnce() {
+    if (!video) return;
+    try {
+        if (video.muted) {
+            video.muted = false;
+            if (video.volume === 0) video.volume = 0.5;
+            updateVolumeUI();
+            console.log("Audio restored on first interaction");
+            // Try playing if it was paused by the browser's autoplay policy
+            if (video.paused) await video.play().catch(() => {});
+        }
+    } catch (e) {
+        console.warn("Unmute failed:", e);
+    }
+}
+    ['mousedown', 'touchstart', 'pointerdown', 'keydown'].forEach(evt => {
+        document.addEventListener(evt, () => {
+            unmuteOnce();
+        }, { once: true, capture: true });
+    });
+
+    // Double-tap for Fullscreen (Mobile)
+    let lastTap = 0;
+    wrapper.addEventListener('touchstart', (e) => {
+        const now = Date.now();
+        if (now - lastTap < 300) {
+            e.preventDefault();
+            if (typeof toggleFullscreen === 'function') toggleFullscreen();
+        }
+        lastTap = now;
+    });
+}
+
+/**
+ * Fullscreen Toggle (Unified)
+ */
+async function toggleFullscreen() {
+    if (!wrapper) return;
+    try {
+        if (!document.fullscreenElement) {
+            if (wrapper.requestFullscreen) await wrapper.requestFullscreen();
+            else if (wrapper.webkitRequestFullscreen) await wrapper.webkitRequestFullscreen();
+            if (fullscreenBtn) fullscreenBtn.innerHTML = '<i class="ph-bold ph-corners-in"></i>';
+            if (screen.orientation && screen.orientation.lock) {
+                await screen.orientation.lock('landscape').catch(e => console.warn("Orientation lock failed:", e));
+            }
+        } else {
+            if (document.exitFullscreen) await document.exitFullscreen();
+            else if (document.webkitExitFullscreen) await document.webkitExitFullscreen();
+            if (fullscreenBtn) fullscreenBtn.innerHTML = '<i class="ph-bold ph-corners-out"></i>';
+            if (screen.orientation && screen.orientation.unlock) screen.orientation.unlock();
+        }
+    } catch (err) {
+        console.error("Fullscreen error:", err);
+    }
+}
+
+/**
+ * Load Stream with Engine Detection
+ */
+async function loadCurrentStream() {
+    const isDash = STREAM_URL.toLowerCase().includes('.mpd');
+
+    // Reset engines
+    if (hls) { hls.destroy(); hls = null; }
+    if (shakaPlayer) { await shakaPlayer.destroy(); shakaPlayer = null; }
+
+    if (isDash) {
+        console.log("Initializing Shaka Player for DASH...");
+        shakaPlayer = new shaka.Player(video);
+
+        // Error handling
+        shakaPlayer.addEventListener('error', (event) => console.error('Shaka Error:', event.detail));
+
+        // DRM Config
+        if (DRM_KEYS) {
+            const parts = DRM_KEYS.split(':');
+            shakaPlayer.configure({
+                drm: {
+                    clearKeys: {
+                        [parts[0]]: parts[1]
+                    }
+                }
+            });
+        }
+
+        // General Shaka Player Configuration
+        shakaPlayer.configure({
+            abr: { enabled: true },
+            preferredAudioLanguage: 'ar',
+            preferredTextLanguage: 'ar',
+            streaming: {
+                lowLatencyMode: true,
+                autoLowLatencyMode: true
+            }
+        });
+
+        try {
+            await shakaPlayer.load(STREAM_URL);
+            updateTrackLists('shaka');
+
+            // Sync current quality label for Shaka Auto
+            shakaPlayer.addEventListener('variantchanged', () => {
+                if (shakaPlayer.getConfiguration().abr.enabled) {
+                    const active = shakaPlayer.getVariantTracks().find(t => t.active);
+                    if (active) {
+                        const autoLabel = document.getElementById('autoQualityLabel');
+                        if (autoLabel) autoLabel.innerText = `Auto (${active.height}p)`;
+                        currentQuality.innerText = `Auto (${active.height}p)`;
+                    }
+                }
+            });
+
+            // Jump to live edge for DASH
+            const seekRange = shakaPlayer.seekRange();
+            video.currentTime = seekRange.end;
+        } catch (e) {
+            console.error("Shaka load failed", e);
+        }
+    } else {
+        if (window.Hls && Hls.isSupported()) {
+            console.log("Initializing HLS.js for M3U8...");
+            hls = new Hls({
+                enableWorker: true,
+                lowLatencyMode: true,
+                backBufferLength: 60,
+                maxBufferLength: 30,
+                liveSyncDurationCount: 2, // Aim for 2 segments from edge
+                liveMaxLatencyDurationCount: 5,
+                maxLiveSyncPlaybackRate: 1.1,
+            });
+
+            hls.on(Hls.Events.MANIFEST_PARSED, () => updateTrackLists('hls'));
+
+            hls.on(Hls.Events.LEVEL_SWITCHED, (event, data) => {
+                const level = hls.levels[data.level];
+                const autoLabel = document.getElementById('autoQualityLabel');
+                if (hls.autoLevelEnabled) {
+                    if (autoLabel) autoLabel.innerText = `Auto (${level.height}p)`;
+                    currentQuality.innerText = `Auto (${level.height}p)`;
+                } else {
+                    if (autoLabel) autoLabel.innerText = `Auto`;
+                }
+            });
+
+
+            if (DRM_KEYS) await setupEME(video, DRM_KEYS);
+
+            hls.loadSource(STREAM_URL);
+            hls.attachMedia(video);
+        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+            video.src = STREAM_URL;
+        }
+    }
+
+    video.play().catch(e => console.warn("Autoplay blocked"));
+}
+
+/**
+ * Chromecast Initialization
+ */
+function initCast() {
+    window['__onGCastApiAvailable'] = (isAvailable) => {
+        if (isAvailable && window.cast) {
+            castContext = cast.framework.CastContext.getInstance();
+            castContext.setOptions({
+                receiverApplicationId: chrome.cast.media.DEFAULT_MEDIA_RECEIVER_APP_ID,
+                autoJoinPolicy: chrome.cast.AutoJoinPolicy.ORIGIN_SCOPED
+            });
+
+            castContext.addEventListener(cast.framework.CastContextEventType.SESSION_STATE_CHANGED, (event) => {
+                const isCasting = event.sessionState === cast.framework.SessionState.SESSION_STARTED;
+                castBtn.style.color = isCasting ? 'var(--primary)' : 'white';
+                castBtn.innerHTML = isCasting ? '<i class="ph-fill ph-screencast"></i>' : '<i class="ph-bold ph-screencast"></i>';
+
+                if (isCasting) {
+                    const session = castContext.getCurrentSession();
+                    const mediaInfo = new chrome.cast.media.MediaInfo(STREAM_URL, 'application/x-mpegURL');
+                    const request = new chrome.cast.media.LoadRequest(mediaInfo);
+                    session.loadMedia(request);
+                }
+            });
+        }
+    };
+}
+
+/**
+ * Hex to ArrayBuffer for EME
+ */
+function hexToUint8Array(hex) {
+    const arr = new Uint8Array(hex.length / 2);
+    for (let i = 0; i < hex.length; i += 2) arr[i / 2] = parseInt(hex.substr(i, 2), 16);
+    return arr;
+}
+
+/**
+ * Configure EME for ClearKey (HLS specific)
+ */
+async function setupEME(video, keys) {
+    if (!keys) return;
+    const parts = keys.split(':');
+    const kid = hexToUint8Array(parts[0]);
+    const key = hexToUint8Array(parts[1]);
+
+    const config = [{
+        initDataTypes: ['cenc'],
+        videoCapabilities: [{ contentType: 'video/mp4; codecs="avc1.42E01E"' }],
+    }];
+
+    try {
+        const access = await navigator.requestMediaKeySystemAccess('org.w3.clearkey', config);
+        const keysInstance = await access.createMediaKeys();
+        await video.setMediaKeys(keysInstance);
+        const session = keysInstance.createSession();
+        session.addEventListener('message', (event) => {
+            const license = JSON.stringify({
+                keys: [{
+                    kty: 'oct',
+                    kid: btoa(String.fromCharCode(...kid)).replace(/\+/g, '-').replace(/\//g, '_').replace(/=/g, ''),
+                    k: btoa(String.fromCharCode(...key)).replace(/\+/g, '-').replace(/\//g, '_').replace(/=/g, '')
+                }],
+                type: 'temporary'
+            });
+            event.target.update(new TextEncoder().encode(license));
+        });
+        video.addEventListener('encrypted', (e) => session.generateRequest(e.initDataType, e.initData));
+    } catch (e) {
+        console.warn("EME Setup failed", e);
+    }
+}
+
+function startViewerCounter(channelId) {
+    const viewersRef = ref(database, `viewers/${channelId}`);
+    const connectedRef = ref(database, ".info/connected");
+
+    onValue(connectedRef, (snap) => {
+        if (snap.val() === true) {
+            // We're connected (or reconnected)!
+            const userRef = push(viewersRef);
+
+            // Add ourselves to presence list, and remove ourselves when we disconnect.
+            onDisconnect(userRef).remove().catch(err => {
+                if (err) console.error("could not establish onDisconnect event", err);
+            });
+
+            // Set the presence value to true
+            set(userRef, true);
+        }
+    });
+
+    onValue(viewersRef, (snapshot) => {
+        const total = snapshot.size || 0;
+        if (viewerNumber) viewerNumber.innerText = total.toLocaleString();
+    });
+}
+
+/**
+ * Return to Live Edge
+ */
+function goToLive() {
+    if (hls) {
+        video.currentTime = hls.liveSyncPosition;
+    } else if (shakaPlayer) {
+        video.currentTime = shakaPlayer.seekRange().end;
+    } else {
+        video.currentTime = video.duration;
+    }
+}
+
+function setupControls() {
+    const togglePlay = () => video.paused ? video.play() : video.pause();
+    playPauseBtn.onclick = togglePlay;
+    centerPlayPauseBtn.onclick = (e) => { e.stopPropagation(); togglePlay(); };
+
+    video.onplay = () => {
+        playPauseBtn.innerHTML = '<i class="ph-fill ph-pause"></i>';
+        centerPlayPauseBtn.innerHTML = '<i class="ph-fill ph-pause"></i>';
+        wrapper.classList.remove('video-paused');
+        resetHideTimeout();
+        if (liveInterval) clearInterval(liveInterval);
+    };
+
+    video.onpause = () => {
+        playPauseBtn.innerHTML = '<i class="ph-fill ph-play"></i>';
+        centerPlayPauseBtn.innerHTML = '<i class="ph-fill ph-play"></i>';
+        wrapper.classList.add('video-paused');
+        wrapper.classList.remove('idle'); // Show controls when paused
+        clearTimeout(hideTimeout);
+
+        if (hls || shakaPlayer) {
+            liveInterval = setInterval(updateLiveTime, 1000);
+        }
+    };
+
+    video.onwaiting = () => { loadingSpinner.style.display = 'block'; };
+    video.onplaying = () => { loadingSpinner.style.display = 'none'; };
+
+    rewindBtn.onclick = (e) => { e.stopPropagation(); video.currentTime -= 10; resetHideTimeout(); };
+    forwardBtn.onclick = (e) => { e.stopPropagation(); video.currentTime += 10; resetHideTimeout(); };
+    if (centerRewindBtn) centerRewindBtn.onclick = (e) => { e.stopPropagation(); video.currentTime -= 10; resetHideTimeout(); };
+    if (centerForwardBtn) centerForwardBtn.onclick = (e) => { e.stopPropagation(); video.currentTime += 10; resetHideTimeout(); };
+    muteBtn.onclick = () => { video.muted = !video.muted; updateVolumeUI(); };
+    volumeSlider.oninput = (e) => {
+        video.volume = parseFloat(e.target.value);
+        video.muted = video.volume === 0;
+        updateVolumeUI();
+    };
+
+    const formatTime = (s) => {
+        const h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), sec = Math.floor(s % 60);
+        return h > 0 ? `${h}:${m.toString().padStart(2, '0')}:${sec.toString().padStart(2, '0')}` : `${m.toString().padStart(2, '0')}:${sec.toString().padStart(2, '0')}`;
+    };
+
+    /**
+     * Unified Time Update Logic (Live & VOD)
+     */
+    function updateLiveTime() {
+        if (isScrubbing) return;
+        const cur = video.currentTime;
+        const dur = video.duration || 0;
+        let isLive = false;
+        let liveEdge = 0;
+
+        if (shakaPlayer) {
+            const range = shakaPlayer.seekRange();
+            if (range.end - range.start > 10) {
+                isLive = true;
+                liveEdge = range.end;
+            }
+        } else if (hls && hls.liveSyncPosition) {
+            isLive = true;
+            liveEdge = hls.liveSyncPosition;
+        }
+
+        if (isLive) {
+            const delay = Math.floor(liveEdge - cur);
+            if (delay > 2) {
+                timeDisplay.textContent = `-${formatTime(delay)}`;
+                timeDisplay.style.color = '#ff4b2b';
+            } else {
+                timeDisplay.textContent = 'LIVE';
+                timeDisplay.style.color = 'white';
+            }
+            liveBadge.classList.add('is-live');
+            return;
+        }
+
+        // VOD Logic
+        const percent = dur > 0 ? (cur / dur) * 100 : 0;
+        currentBar.style.width = `${percent}%`;
+        scrubHead.style.left = `${percent}%`;
+        if (video.buffered.length > 0) bufferBar.style.width = `${(video.buffered.end(video.buffered.length - 1) / dur) * 100}%`;
+
+        timeDisplay.style.color = 'white';
+        timeDisplay.textContent = `${formatTime(cur)} / ${formatTime(dur)}`;
+        liveBadge.classList.remove('is-live');
+    }
+
+    video.ontimeupdate = updateLiveTime;
+
+    // Return to live on clock click
+    timeDisplay.onclick = (e) => {
+        e.stopPropagation();
+        goToLive();
+    };
+
+    const handleScrub = (e) => {
+        const rect = progressContainer.getBoundingClientRect();
+        const clientX = e.touches ? e.touches[0].clientX : e.clientX;
+        video.currentTime = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width)) * video.duration;
+    };
+
+    progressContainer.onmousedown = (e) => {
+        isScrubbing = true; handleScrub(e);
+        document.onmousemove = handleScrub;
+        document.onmouseup = () => { isScrubbing = false; document.onmousemove = null; };
+    };
+
+    progressContainer.ontouchstart = (e) => {
+        isScrubbing = true; handleScrub(e);
+        document.ontouchmove = (event) => isScrubbing && handleScrub(event);
+        document.ontouchend = () => { isScrubbing = false; document.ontouchmove = null; };
+    };
+
+    fullscreenBtn.onclick = toggleFullscreen;
+
+    const fitModes = ['contain', 'cover', 'fill', 'zoom'];
+    let currentFitIndex = 0;
+    expandBtn.onclick = () => {
+        currentFitIndex = (currentFitIndex + 1) % fitModes.length;
+        const mode = fitModes[currentFitIndex];
+        video.classList.remove('fit-cover', 'fit-fill', 'fit-zoom');
+        if (mode !== 'contain') video.classList.add(`fit-${mode}`);
+    };
+
+    let hideTimeout;
+    const resetHideTimeout = () => {
+        if (wrapper.classList.contains('idle')) {
+            lastShowTime = Date.now();
+        }
+        wrapper.classList.remove('idle');
+        clearTimeout(hideTimeout);
+        // High-performance idle: only hide if video is playing. 4s for mobile comfort.
+        if (!video.paused) hideTimeout = setTimeout(() => wrapper.classList.add('idle'), 4000);
+    };
+
+    // Global Listeners for interaction
+    ['mousemove', 'mousedown', 'keydown', 'touchstart', 'touchmove'].forEach(evt => {
+        window.addEventListener(evt, resetHideTimeout, { passive: true });
+    });
+
+    // YouTube-style Toggle UI Logic
+    wrapper.onclick = (e) => {
+        if (e.target === wrapper || e.target === video || e.target === customUI) {
+            if (wrapper.classList.contains('idle')) {
+                resetHideTimeout();
+            } else {
+                // Only hide if it wasn't JUST shown (prevents tap-to-show-then-hide flicker)
+                if (Date.now() - lastShowTime > 300) {
+                    wrapper.classList.add('idle');
+                    clearTimeout(hideTimeout);
+                } else {
+                    // It was just shown by touchstart, so just refresh the timeout
+                    resetHideTimeout();
+                }
+            }
+        }
+    };
+
+    let castAttemptCount = 0;
+    castBtn.onclick = async () => {
+        let currentMethodIndex = castAttemptCount % 2; 
+        castAttemptCount++;
+        
+        console.log(`Casting Attempt #${castAttemptCount} using Method Index ${currentMethodIndex}`);
+        
+        if (currentMethodIndex === 0) {
+            // Step 1: Google Cast SDK
+            if (typeof cast !== 'undefined' && cast.framework) {
+                try {
+                    const context = cast.framework.CastContext.getInstance();
+                    if (context) {
+                        // Ensure options are provided before starting session to fix SDK error
+                        context.setOptions({
+                            receiverApplicationId: chrome.cast.media.DEFAULT_MEDIA_RECEIVER_APP_ID,
+                            autoJoinPolicy: chrome.cast.AutoJoinPolicy.ORIGIN_SCOPED
+                        });
+                        await context.requestSession();
+                        return;
+                    }
+                } catch (err) { 
+                    // Ignore dismissal errors (NotAllowedError: The prompt was dismissed)
+                    if (err.code !== 'cancel' && !err.message?.includes('dismissed')) {
+                        console.warn("Google Cast SDK failed:", err); 
+                    }
+                }
+            }
+            // Fallback immediately to Step 2 if Step 1 is not available
+            currentMethodIndex = 1;
+        }
+
+        if (currentMethodIndex === 1) {
+            // Step 2: Native Target Picker (Safari/iOS/Chrome Mobile)
+            if (video.webkitShowPlaybackTargetPicker) {
+                video.webkitShowPlaybackTargetPicker();
+            } else if (video.remote && video.remote.prompt) {
+                try {
+                    await video.remote.prompt();
+                } catch (err) { 
+                    if (!err.message?.includes('dismissed')) {
+                        console.warn("Remote Playback failed:", err); 
+                    }
+                }
+            } else {
+                alert("عذراً، لم يتم العثور على وسيلة كاست مدعومة في جهازك.");
+            }
+        }
+    };
+
+    pipBtn.onclick = async () => {
+        try {
+            if (video !== document.pictureInPictureElement) {
+                await video.requestPictureInPicture();
+            } else {
+                await document.exitPictureInPicture();
+            }
+        } catch (error) {
+            console.error("PiP error:", error);
+        }
+    };
+
+    settingsBtn.onclick = (e) => {
+        e.stopPropagation();
+        settingsMenu.classList.toggle('show');
+        videoTracksList.classList.add('hidden');
+        audioTracksList.classList.add('hidden');
+        textTracksList.classList.add('hidden');
+    };
+
+    videoTrackMenu.onclick = (e) => { e.stopPropagation(); videoTracksList.classList.toggle('hidden'); audioTracksList.classList.add('hidden'); textTracksList.classList.add('hidden'); };
+    audioTrackMenu.onclick = (e) => { e.stopPropagation(); audioTracksList.classList.toggle('hidden'); videoTracksList.classList.add('hidden'); textTracksList.classList.add('hidden'); };
+    textTrackMenu.onclick = (e) => { e.stopPropagation(); textTracksList.classList.toggle('hidden'); videoTracksList.classList.add('hidden'); audioTracksList.classList.add('hidden'); };
+
+    document.onclick = () => settingsMenu.classList.remove('show');
+}
+
+/**
+ * Unified Track/Quality Management
+ */
+function updateTrackLists(engine) {
+    videoTracksList.innerHTML = '';
+    audioTracksList.innerHTML = '';
+    textTracksList.innerHTML = '';
+
+    // Video/Quality for HLS
+    if (engine === 'hls') {
+        const autoOpt = document.createElement('div');
+        const currentLevel = hls.levels[hls.currentLevel] || hls.levels[hls.loadLevel];
+        const autoSuffix = (hls.autoLevelEnabled && currentLevel) ? ` (${currentLevel.height}p)` : '';
+
+        autoOpt.className = 'track-option' + (hls.autoLevelEnabled ? ' active' : '');
+        autoOpt.innerHTML = `<span id="autoQualityLabel">Auto${autoSuffix}</span>`;
+        autoOpt.onclick = () => {
+            hls.currentLevel = -1;
+            manualQualityId = null;
+            updateTrackLists('hls');
+            const cur = hls.levels[hls.currentLevel] || hls.levels[hls.loadLevel];
+            currentQuality.innerText = cur ? `Auto (${cur.height}p)` : 'Auto';
+        };
+        videoTracksList.appendChild(autoOpt);
+
+        const bestLevels = new Map();
+        hls.levels.forEach((level, index) => {
+            if (!level.height || level.height === 0) return;
+            let fps = level.attrs ? (level.attrs['FRAME-RATE'] || level.attrs['frame-rate']) : null;
+            if (!fps && level.frameRate) fps = level.frameRate;
+            const fpsKey = fps ? Math.round(fps) : 0;
+            const key = `${level.height}-${fpsKey}`;
+            const existing = bestLevels.get(key);
+            
+            if (!existing || level.bitrate > existing.level.bitrate) {
+                bestLevels.set(key, { level, index, fpsText: fps ? ` / ${Math.round(fps)} fps` : '' });
+            }
+        });
+
+        // Convert Map to sorted array (highest to lowest resolution)
+        const sortedLevels = Array.from(bestLevels.values()).sort((a, b) => b.level.height - a.level.height);
+
+        sortedLevels.forEach(({ level, index, fpsText }) => {
+            const opt = document.createElement('div');
+            opt.className = 'track-option' + (manualQualityId === `hls-${index}` ? ' active' : '');
+
+            const bitrateMbps = (level.bitrate / 1000000).toFixed(1);
+            opt.innerHTML = `<div class="track-label">${level.height}p</div><div class="track-meta">${bitrateMbps} Mbps${fpsText}</div>`;
+            opt.onclick = () => {
+                hls.currentLevel = index;
+                manualQualityId = `hls-${index}`;
+                updateTrackLists('hls');
+                currentQuality.innerText = `${level.height}p`;
+            };
+            videoTracksList.appendChild(opt);
+        });
+
+        // Audio Tracks HLS
+        if (hls.audioTracks.length === 0) {
+            const none = document.createElement('div');
+            none.className = 'track-option disabled';
+            none.innerText = 'لا يوجد صوت إضافي';
+            audioTracksList.appendChild(none);
+        } else {
+            hls.audioTracks.forEach((track, index) => {
+                const opt = document.createElement('div');
+                opt.className = 'track-option' + (hls.audioTrack === index ? ' active' : '');
+                opt.innerText = track.name || track.lang || `Audio ${index + 1}`;
+                opt.onclick = () => {
+                    hls.audioTrack = index;
+                    updateTrackLists('hls');
+                    currentAudio.innerText = opt.innerText;
+                };
+                audioTracksList.appendChild(opt);
+                if (track.lang === 'ar' && hls.audioTrack === -1) hls.audioTrack = index;
+            });
+        }
+
+        // Text Tracks HLS Placeholder
+        const noneText = document.createElement('div');
+        noneText.className = 'track-option disabled';
+        noneText.innerText = 'لا توجد ترجمة';
+        textTracksList.appendChild(noneText);
+
+    } else {
+        // DASH (Shaka)
+        const autoOpt = document.createElement('div');
+        const isAuto = shakaPlayer.getConfiguration().abr.enabled;
+
+        const activeVar = shakaPlayer.getVariantTracks().find(t => t.active);
+        const autoSuffix = (isAuto && activeVar) ? ` (${activeVar.height}p)` : '';
+
+        autoOpt.className = 'track-option' + (isAuto ? ' active' : '');
+        autoOpt.innerHTML = `<span id="autoQualityLabel">Auto${autoSuffix}</span>`;
+        autoOpt.onclick = () => {
+            shakaPlayer.configure({ abr: { enabled: true } });
+            manualQualityId = null;
+            updateTrackLists('shaka');
+            const cur = shakaPlayer.getVariantTracks().find(t => t.active);
+            currentQuality.innerText = cur ? `Auto (${cur.height}p)` : 'Auto';
+        };
+        videoTracksList.appendChild(autoOpt);
+
+        const variants = shakaPlayer.getVariantTracks();
+        const bestVariants = new Map();
+        
+        variants.forEach(track => {
+            if (!track.height || track.height === 0) return;
+            const fpsKey = track.frameRate ? Math.round(track.frameRate) : 0;
+            const key = `${track.height}-${fpsKey}`;
+            const existing = bestVariants.get(key);
+            if (!existing || track.bandwidth > existing.bandwidth) {
+                bestVariants.set(key, track);
+            }
+        });
+
+        const sortedVariants = Array.from(bestVariants.values()).sort((a, b) => b.height - a.height);
+
+        sortedVariants.forEach((track) => {
+            const opt = document.createElement('div');
+            opt.className = 'track-option' + (manualQualityId === `shaka-${track.id}` ? ' active' : '');
+
+            const bitrateMbps = (track.bandwidth / 1000000).toFixed(1);
+            const fps = track.frameRate ? ` / ${Math.round(track.frameRate)} fps` : '';
+            opt.innerHTML = `<div class="track-label">${track.height}p</div><div class="track-meta">${bitrateMbps} Mbps${fps}</div>`;
+
+            opt.onclick = () => {
+                shakaPlayer.configure({ abr: { enabled: false } });
+                shakaPlayer.selectVariantTrack(track, true);
+                manualQualityId = `shaka-${track.id}`;
+                updateTrackLists('shaka');
+                currentQuality.innerText = `${track.height}p`;
+            };
+            videoTracksList.appendChild(opt);
+        });
+
+        // Audio Tracks Shaka
+        const langs = [...new Set(shakaPlayer.getAudioLanguagesAndRoles().map(l => l.language))];
+        if (langs.length === 0) {
+            const none = document.createElement('div');
+            none.className = 'track-option disabled';
+            none.innerText = 'None';
+            audioTracksList.appendChild(none);
+        } else {
+            langs.forEach(lang => {
+                const opt = document.createElement('div');
+                const currentLang = shakaPlayer.getVariantTracks().find(t => t.active)?.language;
+                opt.className = 'track-option' + (currentLang === lang ? ' active' : '');
+                opt.innerText = lang.toUpperCase();
+                opt.onclick = () => {
+                    shakaPlayer.selectAudioLanguage(lang);
+                    updateTrackLists('shaka');
+                    currentAudio.innerText = lang.toUpperCase();
+                };
+                audioTracksList.appendChild(opt);
+            });
+        }
+
+        // Text Tracks Shaka
+        const textLangs = shakaPlayer.getTextTracks().map(t => t.language);
+        if (textLangs.length === 0) {
+            const none = document.createElement('div');
+            none.className = 'track-option disabled';
+            none.innerText = 'None';
+            textTracksList.appendChild(none);
+        } else {
+            [...new Set(textLangs)].forEach(lang => {
+                const opt = document.createElement('div');
+                opt.className = 'track-option';
+                opt.innerText = lang.toUpperCase();
+                opt.onclick = () => { shakaPlayer.selectTextLanguage(lang); shakaPlayer.setTextTrackVisibility(true); };
+                textTracksList.appendChild(opt);
+            });
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', initPlayer);
